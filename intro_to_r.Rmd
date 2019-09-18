@@ -30,16 +30,16 @@ tap_tib <- here::here("data/tap_parenting.csv") %>%
 ```
 
 ---
-#  Key information 
+##  Key information 
 
-## Teaching
+### Teaching
 
 + 1 × weekly lecture (2 in weeks 1 and 2) on theory
 + 1 × weekly practical class (2 in weeks 1 and 2) about R/ Rstudio
 
 --
 
-## Assessment
+### Assessment
 
 + 2 × 24-hour Take Away Papers (TAPs)
 	+ TAP 1: 30%
@@ -108,15 +108,15 @@ background-size: cover
 Image of Rick from Rick and Morty smiling maniacally.
 
 ---
-#  R and R Studio 
+##  R and R Studio 
 
-## R
+### R
 
 + Free software environment for statistical analysis and graphics
 
 --
 
-## R Studio
+### R Studio
 
 + A free integrated development environment (IDE) for R
 + You use R Studio as a way to interact with R
@@ -125,7 +125,7 @@ Image of Rick from Rick and Morty smiling maniacally.
 	+ Set up RStudio to suit your personality and enjoy your status as rad data scientist hipster
 
 ---
-#  Why R? 
+##  Why R? 
 
 Transferable skills
 
@@ -161,14 +161,14 @@ RStudio is amazeballs
 
 
 ---
-#  Starting up R Studio 
+##  Starting up R Studio 
 
 ![:scale 80%](images/rsudio_starting_up.png)
 
 ---
 
 .pull-left[
-##  Try it! Colour scheme 
+###  Try it! Colour scheme 
 
 + Windows
   + .font-bwn[Tools > Options] 
@@ -187,7 +187,7 @@ Image of the dialog box for editing the colour scheme of RStudio
 
 ---
 .pull-left[
-##  Try it! Pane locations
+###  Try it! Pane locations
 
 ]
 
@@ -222,7 +222,7 @@ layout: true
 background-image: url("images/ais_powerpoint_white.png")
 background-size: cover
 ---
-#  Before we begin …. 
+##  Before we begin …. 
 
 University computers are networked and use something called UNC paths
 
@@ -244,7 +244,7 @@ There’s a fix:
 
 ---
 
-![:scale 80%](images/sussex_cloud.png)
+![:scale 70%](images/sussex_cloud.png)
 
 ???
 
@@ -252,7 +252,7 @@ Image of the Sussex one drive logo.
 We will save files to Sussex one drive.
 
 ---
-#  R Studio project files 
+##  R Studio project files 
 
 A file created by R Studio with the extension .font-bwn[.Rproj]
 + Stores information about the containing folder
@@ -270,11 +270,10 @@ Opening a project file sets the working directory to the folder containing the p
 .font-orn[Use project files!]
 
 ---
-#  Get organized!
+###  Get organized!
 
+`C:/Users/andyfield/Documents/my_new_project/data/my_funky_data.csv`
 .pull-left[
-`C:/Users/andyfield/Documents/my_new_project/ data/my_funky_data.csv`
-
 `./data/my_funky_data.csv`
 
 `../data/my_funky_data.csv`
@@ -285,12 +284,12 @@ Opening a project file sets the working directory to the folder containing the p
 ]
 
 ---
-#  Creating a project: .font-bwn[File > New Project] 
+##  Creating a project: .font-bwn[File > New Project] 
 
 ![:scale 80%](images/new_project.png)
 
 ---
-#  Try it! 
+##  Try it! 
 
 Create an R Studio project called .font-bwn[my_adventr] on .font-bwn[Sussex One Drive]
 
@@ -307,7 +306,7 @@ Create a markdown file
 + Save it to the .font-bwn[r_docs] folder with the name .font-bwn[sample_tap.Rmd]
 
 ---
-#  Now, let’s save some data 
+##  Now, let’s save some data 
 
 On CANVAS go to .font-bwn[Files > data_files]
 
@@ -330,7 +329,7 @@ layout: true
 background-image: url("images/ais_powerpoint_white.png")
 background-size: cover
 ---
-#  Interacting with R 
+##  Interacting with R 
 
 Direct to the console (boo!)
 + Bad for reproducibility/your sanity
@@ -349,7 +348,7 @@ R markdown document (hooray!)
 + Great for impressing your friends and loved ones
 
 ---
-#  Try it 
+##  Try it 
 
 Type these commands into the console one-by-one and press return
 
@@ -383,7 +382,7 @@ cor (pressure)
 
 
 ---
-#  Inserting code chunks
+##  Inserting code chunks
 
 Windows
 + *ctrl + alt + i*
@@ -395,7 +394,7 @@ Mac
 
 
 ---
-#  Try it 
+## Try it 
 
 In your *sample_tap.Rmd* file
 + Create a code chunk, type the first command into it and execute.
@@ -414,7 +413,7 @@ cor (pressure)
 
 
 ---
-#  Code chunk options 
+##  Code chunk options 
 
 + `echo=FALSE`: the code will be evaluated but not reproduced in the knitted document.
 + `eval=FALSE`: the code will not be evaluated.
@@ -426,14 +425,14 @@ cor (pressure)
 
 
 ---
-#  Try it! 
+##  Try it! 
 
 + Using the code chunks we have already created
 + Change the code chunk headers to include `echo=FALSE` , re-knit the document and compare the result.
 + Repeat this process but including `eval=FALSE`
 
 ---
-# R Markdown: headers 
+## R Markdown: headers 
 
 .pull-left[
 Markdown
@@ -452,7 +451,7 @@ Knitted text
 ]
 
 ---
-#  R Markdown: lists 
+##  R Markdown: lists 
 
 .pull-left[
 Markdown
@@ -482,7 +481,7 @@ Knitted text
 
 
 ---
-#  R Markdown: emphasizing text 
+##  R Markdown: emphasizing text 
 
 .pull-left[
 Markdown
@@ -506,27 +505,27 @@ $$\text{Text}_\text{subscript}$$
 
 
 ---
-#  R Markdown: hyperlinks 
+##  R Markdown: hyperlinks 
 
-## Markdown
+### Markdown
 
 `The *adventr* is a package of interactive tutorials for learning R. Get it from [milton-the-cat.rocks/home/adventr.html](http://milton-the-cat.rocks/home/adventr.html)`
 
-## Knitted text
+### Knitted text
 
 The *adventr* is a package of interactive tutorials for learning R. Get it from [milton-the-cat.rocks/home/adventr.html](http://milton-the-cat.rocks/home/adventr.html)
 
 ---
-#  R Markdown: equations 
+##  R Markdown: equations 
 
-## Markdown
+### Markdown
 
 We can include the linear model in its own paragraph like this: 
 ```{r, eval = FALSE}
 $$ Y_i = b_0 + b_1X_i + \epsilon_i $$
 ```
 
-## Knitted text
+### Knitted text
 
 We can include the linear model in its own paragraph like this:
 
@@ -534,7 +533,7 @@ $$Y_i = b_0 + b_1X_i + \epsilon_i$$
 
 
 ---
-#  Try it! 
+##  Try it! 
 
 In your markdown file create a level 1 header that reads 'About me'
 
@@ -558,7 +557,7 @@ layout: true
 background-image: url("images/ais_powerpoint_white.png")
 background-size: cover
 ---
-#  Getting help 
+##  Getting help 
 
 To get help, use the `help()` function or `?`
 + `help(thing_you_want_help_with)`
@@ -571,7 +570,7 @@ Try accessing the help files for the `mean()` function, by executing:
 + `?mean`
 
 ---
-#  R Style Wickham (2014)
+##  R Style Wickham (2014)
 
 R is case sensitive. In code chunks use lower case wherever possible
 
@@ -594,12 +593,12 @@ My practice: use consistent suffixes that identify types of objects
 + `_out` to denote output (e.g., `anx_out` contains the summary output from the above model
 
 ---
-#  Functions and objects 
+##  Functions and objects 
 
 ![](images/functions_objects.png)
 
 ---
-#  Try It! 
+##  Try It! 
 
 ```{r}
 metallica <- c("Lars", "James", "Kirk", "Rob")
@@ -608,12 +607,12 @@ metallica
 
 
 ---
-#  Installing and loading packages 
+##  Installing and loading packages 
 
 ![](images/packages.png)
 
 ---
-#  Installing and loading packages 
+##  Installing and loading packages 
 
 Install the package from CRAN
 + You need to install the package into R’s repository of packages on your computer.
@@ -630,11 +629,11 @@ Load the package
 --
 
 Try it!
-+ Execute `install.packages ("tidyverse")`
++ Execute `install.packages("tidyverse")`
 
 
 ---
-#  The tidyverse 
+##  The tidyverse 
 
 A set of packages built upon a common philosophy of data science
 
@@ -649,7 +648,7 @@ A set of packages built upon a common philosophy of data science
 Image: montage of tidyverse package logos
 
 ---
-#  The pipe operator (`%>%`)
+##  The pipe operator (`%>%`)
 
 Multiple commands:
 ```{r, eval=FALSE}
@@ -675,11 +674,11 @@ core_members <- metallica %>%
 
 --
 
-![:scale 70%](images/pipe_operator.png)
+![:scale 80%](images/pipe_operator.png)
 
 
 ---
-#  Using a ‘setup’ code chunk 
+##  Using a ‘setup’ code chunk 
 
 I advise you have a setup chunk that
 + Sets global options for your code chunks
@@ -699,15 +698,15 @@ tap_tib <- readr::read_csv("/Volumes/the_repository/documents/Academic/teaching/
 ```
 
 ---
-#  Filepaths made easy (well, easier …) 
+##  Filepaths made easy (well, easier …) 
 
-## Relative paths
+### Relative paths
 If you use an RStudio project, you can use relative paths
 + `tap_tib <- readr::read_csv("../data/tap_parenting.csv")`
 
 --
 
-## The `here` package
+### The `here` package
 
 If you use an RStudio project, `here::here()` returns the project folder
 + Text within `here()` returns the folder or file within the project folder that matches the text
@@ -745,16 +744,16 @@ tap_tib <- here::here("data/tap_parenting.csv") %>%
 ```
 
 ---
-#  Messy vs. Tidy data 
+##  Messy vs. Tidy data 
 
-## Messy data (aka 'wide' data)
+### Messy data (aka 'wide' data)
 
 What IBM SPSS Statistics uses
 + Each row represents a unique case/entity
 
 --
 
-## Tidy data (aka 'long' data)
+### Tidy data (aka 'long' data)
 What many (but not all) R functions require
 + Each row represents an instance of the outcome measure
 + Rows code information about that 'instance'
@@ -792,7 +791,7 @@ layout: true
 background-image: url("images/ais_powerpoint_white.png")
 background-size: cover
 ---
-#  Practical classes 
+##  Practical classes 
 
 The practical classes are based on a package of interactive tutorials called `adventr` that I wrote
 + Students work at your own pace
@@ -820,7 +819,7 @@ learnr::run_tutorial (“adventr_03", package = "adventr")
 
 
 ---
-#  Suggested workflow 
+##  Suggested workflow 
 
 Create an RStudio project called .font-bwn[my_advent]
 + Within it create folders called .font-bwn[data] and .font-bwn[r_docs]
@@ -828,7 +827,7 @@ Create an RStudio project called .font-bwn[my_advent]
 + Save the file .font-bwn[tutorial_template.Rmd] into your .font-bwn[r_docs] folder
 
 ---
-#  Suggested workflow (cont.)
+##  Suggested workflow (cont.)
 
 For a given tutorial, have **two** RStudio sessions running simultaneously
 + To open a second session select .font-bwn[Session > New Session]
