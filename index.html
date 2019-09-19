@@ -447,15 +447,17 @@ cor(pressure)
 ## R Markdown: headers 
 
 .pull-left[
-Markdown
+### Markdown
 + `# Level 1 heading`
 + `## Level 2 heading`
 + `### Level 3 heading`
 + `#### Level 4 heading`
 ]
 
+--
+
 .pull-right[
-Knitted text
+### Knitted text
 + # Level 1 heading
 + ## Level 2 heading
 + ### Level 3 heading
@@ -466,7 +468,7 @@ Knitted text
 ##  R Markdown: lists 
 
 .pull-left[
-Markdown
+### Markdown
 
 ```r
 * This is the first bullet point
@@ -480,8 +482,10 @@ Markdown
 ```
 ]
 
+--
+
 .pull-right[
-Knitted text
+### Knitted text
 + This is the first bullet point
   + this is a sub-bullet
   + so is this
@@ -497,7 +501,7 @@ Knitted text
 ##  R Markdown: emphasizing text 
 
 .pull-left[
-Markdown
+### Markdown
 
 ```r
 *italic text*
@@ -507,8 +511,10 @@ Text~subscript~
 ```
 ]
 
+--
+
 .pull-right[
-Knitted text
+### Knitted text
 
 *italic text*
 
@@ -517,13 +523,34 @@ Knitted text
 `$$\text{Text}_\text{subscript}$$` 
 ]
 
+---
+
+.pull-left[
+##  R Markdown: images
+`![Caption for image](filepath_for_image)`
+
+`![Figure 1: my lovely spaniel](images/milton_circle_2019.png)`
+]
+
+--
+
+.pull-left[
+&lt;div class="figure"&gt;
+&lt;img src="./images/milton_circle_2019.png" alt="Figure 1: my lovely spaniel" width="928" /&gt;
+&lt;p class="caption"&gt;Figure 1: my lovely spaniel&lt;/p&gt;
+&lt;/div&gt;
+]
 
 ---
-##  R Markdown: hyperlinks 
+##  R Markdown: hyperlinks
+
+`[text_describing_link](url)`
 
 ### Markdown
 
 `The *adventr* is a package of interactive tutorials for learning R. Get it from [milton-the-cat.rocks/home/adventr.html](http://milton-the-cat.rocks/home/adventr.html)`
+
+--
 
 ### Knitted text
 
@@ -539,6 +566,8 @@ We can include the linear model in its own paragraph like this:
 ```r
 $$ Y_i = b_0 + b_1X_i + \epsilon_i $$
 ```
+
+--
 
 ### Knitted text
 
