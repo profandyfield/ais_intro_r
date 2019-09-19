@@ -354,7 +354,7 @@ Type these commands into the console one-by-one and press return
 
 ```{r, eval=FALSE}
 plot(pressure)
-cor (pressure)
+cor(pressure)
 ```
 
 ---
@@ -365,7 +365,7 @@ plot(pressure)
 
 ---
 ```{r}
-cor (pressure)
+cor(pressure)
 ```
 
 ---
@@ -406,7 +406,7 @@ plot(pressure)
 + Create a new code chunk, type the second command into it and execute.
 
 ```{r, eval = FALSE}
-cor (pressure)
+cor(pressure)
 ```
 
 + ‘Knit’ the document
@@ -435,15 +435,17 @@ cor (pressure)
 ## R Markdown: headers 
 
 .pull-left[
-Markdown
+### Markdown
 + `# Level 1 heading`
 + `## Level 2 heading`
 + `### Level 3 heading`
 + `#### Level 4 heading`
 ]
 
+--
+
 .pull-right[
-Knitted text
+### Knitted text
 + # Level 1 heading
 + ## Level 2 heading
 + ### Level 3 heading
@@ -454,7 +456,7 @@ Knitted text
 ##  R Markdown: lists 
 
 .pull-left[
-Markdown
+### Markdown
 ```{r, eval = FALSE}
 * This is the first bullet point
   + this is a sub-bullet
@@ -467,8 +469,10 @@ Markdown
 ```
 ]
 
+--
+
 .pull-right[
-Knitted text
+### Knitted text
 + This is the first bullet point
   + this is a sub-bullet
   + so is this
@@ -484,7 +488,7 @@ Knitted text
 ##  R Markdown: emphasizing text 
 
 .pull-left[
-Markdown
+### Markdown
 ```{r, eval = FALSE}
 *italic text*
 **bold text**
@@ -493,8 +497,10 @@ Text~subscript~
 ```
 ]
 
+--
+
 .pull-right[
-Knitted text
+### Knitted text
 
 *italic text*
 
@@ -503,13 +509,33 @@ $$\text{Text}^\text{superscript}$$
 $$\text{Text}_\text{subscript}$$ 
 ]
 
+---
+
+.pull-left[
+##  R Markdown: images
+`![Caption for image](filepath_for_image)`
+
+`![Figure 1: my lovely spaniel](images/milton_circle_2019.png)`
+]
+
+--
+
+.pull-left[
+```{r, fig.cap="Figure 1: my lovely spaniel", echo = FALSE}
+knitr::include_graphics("./images/milton_circle_2019.png")
+```
+]
 
 ---
-##  R Markdown: hyperlinks 
+##  R Markdown: hyperlinks
+
+`[text_describing_link](url)`
 
 ### Markdown
 
 `The *adventr* is a package of interactive tutorials for learning R. Get it from [milton-the-cat.rocks/home/adventr.html](http://milton-the-cat.rocks/home/adventr.html)`
+
+--
 
 ### Knitted text
 
@@ -524,6 +550,8 @@ We can include the linear model in its own paragraph like this:
 ```{r, eval = FALSE}
 $$ Y_i = b_0 + b_1X_i + \epsilon_i $$
 ```
+
+--
 
 ### Knitted text
 
@@ -617,7 +645,7 @@ metallica
 Install the package from CRAN
 + You need to install the package into R’s repository of packages on your computer.
 + Every time you update or re-install R you need to re-install packages to use them.
-+ `install.packages ("package_name")`
++ `install.packages("package_name")`
 + .font-orn[Install packages using the command line. Do NOT include] `install.packages()` .font-orn[in markdown files or the package will be installed every time you knit the document]
 
 --
@@ -802,9 +830,9 @@ The practical classes are based on a package of interactive tutorials called `ad
 ##  Installing adventr 
 
 ```{r, eval=FALSE}
-install.packages ("remotes")
+install.packages("remotes")
 library(remotes)
-remotes::install_github ("profandyfield/adventr")
+remotes::install_github("profandyfield/adventr")
 ```
 
 --
@@ -814,7 +842,7 @@ remotes::install_github ("profandyfield/adventr")
 ```{r, eval=FALSE}
 library(adventr)
 learnr::run_tutorial("name_of_tutorial", package = "adventr")
-learnr::run_tutorial (“adventr_03", package = "adventr")
+learnr::run_tutorial("adventr_03", package = "adventr")
 ```
 
 
@@ -837,7 +865,7 @@ For a given tutorial, have **two** RStudio sessions running simultaneously
 Session 1: run the tutorial
 ```{r, eval=FALSE}
 library(adventr)
-learnr::run_tutorial (“adventr_03", package = "adventr")
+learnr::run_tutorial("adventr_03", package = "adventr")
 ```
 
 --

@@ -4,7 +4,7 @@
     <title>An Adventure in Statistics</title>
     <meta charset="utf-8" />
     <meta name="author" content="Andy Field" />
-    <meta name="date" content="2019-09-18" />
+    <meta name="date" content="2019-09-19" />
     <link href="libs/remark-css/default.css" rel="stylesheet" />
     <link href="libs/remark-css/robot-fonts.css" rel="stylesheet" />
     <script src="libs/kePrint/kePrint.js"></script>
@@ -17,7 +17,7 @@ class: center, middle, inverse, title-slide
 # An Adventure in Statistics
 ### Andy Field
 ### University of Sussex
-### 2019-09-18
+### 2019-09-19
 
 ---
 
@@ -354,7 +354,7 @@ Type these commands into the console one-by-one and press return
 
 ```r
 plot(pressure)
-cor (pressure)
+cor(pressure)
 ```
 
 ---
@@ -369,7 +369,7 @@ plot(pressure)
 ---
 
 ```r
-cor (pressure)
+cor(pressure)
 ```
 
 ```
@@ -418,7 +418,7 @@ plot(pressure)
 
 
 ```r
-cor (pressure)
+cor(pressure)
 ```
 
 + ‘Knit’ the document
@@ -447,15 +447,17 @@ cor (pressure)
 ## R Markdown: headers 
 
 .pull-left[
-Markdown
+### Markdown
 + `# Level 1 heading`
 + `## Level 2 heading`
 + `### Level 3 heading`
 + `#### Level 4 heading`
 ]
 
+--
+
 .pull-right[
-Knitted text
+### Knitted text
 + # Level 1 heading
 + ## Level 2 heading
 + ### Level 3 heading
@@ -466,7 +468,7 @@ Knitted text
 ##  R Markdown: lists 
 
 .pull-left[
-Markdown
+### Markdown
 
 ```r
 * This is the first bullet point
@@ -480,8 +482,10 @@ Markdown
 ```
 ]
 
+--
+
 .pull-right[
-Knitted text
+### Knitted text
 + This is the first bullet point
   + this is a sub-bullet
   + so is this
@@ -497,7 +501,7 @@ Knitted text
 ##  R Markdown: emphasizing text 
 
 .pull-left[
-Markdown
+### Markdown
 
 ```r
 *italic text*
@@ -507,8 +511,10 @@ Text~subscript~
 ```
 ]
 
+--
+
 .pull-right[
-Knitted text
+### Knitted text
 
 *italic text*
 
@@ -517,13 +523,34 @@ Knitted text
 `$$\text{Text}_\text{subscript}$$` 
 ]
 
+---
+
+.pull-left[
+##  R Markdown: images
+`![Caption for image](filepath_for_image)`
+
+`![Figure 1: my lovely spaniel](images/milton_circle_2019.png)`
+]
+
+--
+
+.pull-left[
+&lt;div class="figure"&gt;
+&lt;img src="./images/milton_circle_2019.png" alt="Figure 1: my lovely spaniel" width="928" /&gt;
+&lt;p class="caption"&gt;Figure 1: my lovely spaniel&lt;/p&gt;
+&lt;/div&gt;
+]
 
 ---
-##  R Markdown: hyperlinks 
+##  R Markdown: hyperlinks
+
+`[text_describing_link](url)`
 
 ### Markdown
 
 `The *adventr* is a package of interactive tutorials for learning R. Get it from [milton-the-cat.rocks/home/adventr.html](http://milton-the-cat.rocks/home/adventr.html)`
+
+--
 
 ### Knitted text
 
@@ -539,6 +566,8 @@ We can include the linear model in its own paragraph like this:
 ```r
 $$ Y_i = b_0 + b_1X_i + \epsilon_i $$
 ```
+
+--
 
 ### Knitted text
 
@@ -637,7 +666,7 @@ metallica
 Install the package from CRAN
 + You need to install the package into R’s repository of packages on your computer.
 + Every time you update or re-install R you need to re-install packages to use them.
-+ `install.packages ("package_name")`
++ `install.packages("package_name")`
 + .font-orn[Install packages using the command line. Do NOT include] `install.packages()` .font-orn[in markdown files or the package will be installed every time you knit the document]
 
 --
@@ -744,7 +773,7 @@ here::here()
 ```
 
 ```
-## [1] "/Volumes/Alpha Lacertae/Documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r"
+## [1] "/Volumes/the_repository/documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r"
 ```
 
 ```r
@@ -752,7 +781,7 @@ here::here("data")
 ```
 
 ```
-## [1] "/Volumes/Alpha Lacertae/Documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r/data"
+## [1] "/Volumes/the_repository/documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r/data"
 ```
 
 ```r
@@ -760,7 +789,7 @@ here::here("data/tap_parenting.csv")
 ```
 
 ```
-## [1] "/Volumes/Alpha Lacertae/Documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r/data/tap_parenting.csv"
+## [1] "/Volumes/the_repository/documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r/data/tap_parenting.csv"
 ```
 ---
 
@@ -970,9 +999,9 @@ The practical classes are based on a package of interactive tutorials called `ad
 
 
 ```r
-install.packages ("remotes")
+install.packages("remotes")
 library(remotes)
-remotes::install_github ("profandyfield/adventr")
+remotes::install_github("profandyfield/adventr")
 ```
 
 --
@@ -983,7 +1012,7 @@ remotes::install_github ("profandyfield/adventr")
 ```r
 library(adventr)
 learnr::run_tutorial("name_of_tutorial", package = "adventr")
-learnr::run_tutorial (“adventr_03", package = "adventr")
+learnr::run_tutorial("adventr_03", package = "adventr")
 ```
 
 
@@ -1007,7 +1036,7 @@ Session 1: run the tutorial
 
 ```r
 library(adventr)
-learnr::run_tutorial (“adventr_03", package = "adventr")
+learnr::run_tutorial("adventr_03", package = "adventr")
 ```
 
 --
