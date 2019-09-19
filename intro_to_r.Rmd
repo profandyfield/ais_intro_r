@@ -354,7 +354,7 @@ Type these commands into the console one-by-one and press return
 
 ```{r, eval=FALSE}
 plot(pressure)
-cor (pressure)
+cor(pressure)
 ```
 
 ---
@@ -365,7 +365,7 @@ plot(pressure)
 
 ---
 ```{r}
-cor (pressure)
+cor(pressure)
 ```
 
 ---
@@ -406,7 +406,7 @@ plot(pressure)
 + Create a new code chunk, type the second command into it and execute.
 
 ```{r, eval = FALSE}
-cor (pressure)
+cor(pressure)
 ```
 
 + ‘Knit’ the document
@@ -617,7 +617,7 @@ metallica
 Install the package from CRAN
 + You need to install the package into R’s repository of packages on your computer.
 + Every time you update or re-install R you need to re-install packages to use them.
-+ `install.packages ("package_name")`
++ `install.packages("package_name")`
 + .font-orn[Install packages using the command line. Do NOT include] `install.packages()` .font-orn[in markdown files or the package will be installed every time you knit the document]
 
 --
@@ -802,9 +802,9 @@ The practical classes are based on a package of interactive tutorials called `ad
 ##  Installing adventr 
 
 ```{r, eval=FALSE}
-install.packages ("remotes")
+install.packages("remotes")
 library(remotes)
-remotes::install_github ("profandyfield/adventr")
+remotes::install_github("profandyfield/adventr")
 ```
 
 --
@@ -814,7 +814,7 @@ remotes::install_github ("profandyfield/adventr")
 ```{r, eval=FALSE}
 library(adventr)
 learnr::run_tutorial("name_of_tutorial", package = "adventr")
-learnr::run_tutorial (“adventr_03", package = "adventr")
+learnr::run_tutorial("adventr_03", package = "adventr")
 ```
 
 
@@ -837,7 +837,7 @@ For a given tutorial, have **two** RStudio sessions running simultaneously
 Session 1: run the tutorial
 ```{r, eval=FALSE}
 library(adventr)
-learnr::run_tutorial (“adventr_03", package = "adventr")
+learnr::run_tutorial("adventr_03", package = "adventr")
 ```
 
 --

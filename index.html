@@ -4,7 +4,7 @@
     <title>An Adventure in Statistics</title>
     <meta charset="utf-8" />
     <meta name="author" content="Andy Field" />
-    <meta name="date" content="2019-09-18" />
+    <meta name="date" content="2019-09-19" />
     <link href="libs/remark-css/default.css" rel="stylesheet" />
     <link href="libs/remark-css/robot-fonts.css" rel="stylesheet" />
     <script src="libs/kePrint/kePrint.js"></script>
@@ -17,7 +17,7 @@ class: center, middle, inverse, title-slide
 # An Adventure in Statistics
 ### Andy Field
 ### University of Sussex
-### 2019-09-18
+### 2019-09-19
 
 ---
 
@@ -354,7 +354,7 @@ Type these commands into the console one-by-one and press return
 
 ```r
 plot(pressure)
-cor (pressure)
+cor(pressure)
 ```
 
 ---
@@ -369,7 +369,7 @@ plot(pressure)
 ---
 
 ```r
-cor (pressure)
+cor(pressure)
 ```
 
 ```
@@ -418,7 +418,7 @@ plot(pressure)
 
 
 ```r
-cor (pressure)
+cor(pressure)
 ```
 
 + ‘Knit’ the document
@@ -637,7 +637,7 @@ metallica
 Install the package from CRAN
 + You need to install the package into R’s repository of packages on your computer.
 + Every time you update or re-install R you need to re-install packages to use them.
-+ `install.packages ("package_name")`
++ `install.packages("package_name")`
 + .font-orn[Install packages using the command line. Do NOT include] `install.packages()` .font-orn[in markdown files or the package will be installed every time you knit the document]
 
 --
@@ -744,7 +744,7 @@ here::here()
 ```
 
 ```
-## [1] "/Volumes/Alpha Lacertae/Documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r"
+## [1] "/Volumes/the_repository/documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r"
 ```
 
 ```r
@@ -752,7 +752,7 @@ here::here("data")
 ```
 
 ```
-## [1] "/Volumes/Alpha Lacertae/Documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r/data"
+## [1] "/Volumes/the_repository/documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r/data"
 ```
 
 ```r
@@ -760,7 +760,7 @@ here::here("data/tap_parenting.csv")
 ```
 
 ```
-## [1] "/Volumes/Alpha Lacertae/Documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r/data/tap_parenting.csv"
+## [1] "/Volumes/the_repository/documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r/data/tap_parenting.csv"
 ```
 ---
 
@@ -970,9 +970,9 @@ The practical classes are based on a package of interactive tutorials called `ad
 
 
 ```r
-install.packages ("remotes")
+install.packages("remotes")
 library(remotes)
-remotes::install_github ("profandyfield/adventr")
+remotes::install_github("profandyfield/adventr")
 ```
 
 --
@@ -983,7 +983,7 @@ remotes::install_github ("profandyfield/adventr")
 ```r
 library(adventr)
 learnr::run_tutorial("name_of_tutorial", package = "adventr")
-learnr::run_tutorial (“adventr_03", package = "adventr")
+learnr::run_tutorial("adventr_03", package = "adventr")
 ```
 
 
@@ -1007,7 +1007,7 @@ Session 1: run the tutorial
 
 ```r
 library(adventr)
-learnr::run_tutorial (“adventr_03", package = "adventr")
+learnr::run_tutorial("adventr_03", package = "adventr")
 ```
 
 --
