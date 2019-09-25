@@ -810,7 +810,7 @@ cloak_tib <- here::here("data/invisibility.csv") %>%
   dplyr::mutate(
     cloak = forcats::as_factor(cloak)
   )
-
+set.seed(666)
 sample_cloak <- cloak_tib %>%
   dplyr::filter(cloak == "Cloak") %>%
   dplyr::sample_n(7) %>%
