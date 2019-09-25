@@ -786,6 +786,94 @@ What many (but not all) R functions require
 + Each row represents an instance of the outcome measure
 + Rows code information about that 'instance'
 
+---
+
+## Tidy data example
+
+.pull-left[
+Are invisible people mischievous?
+
+* Placed participants in an enclosed community riddled with hidden cameras
+* Measured how many mischievous acts participants performed in a week
+* Manipulated whether or not there was access to an invisibility cloak
+]
+
+.pull-right[
+![](./images/invisibility-cloak.jpg)
+]
+
+---
+
+```{r, echo = FALSE, message = FALSE}
+cloak_tib <- here::here("data/invisibility.csv") %>%
+  readr::read_csv() %>% 
+  dplyr::mutate(
+    cloak = forcats::as_factor(cloak)
+  )
+
+sample_cloak <- cloak_tib %>%
+  dplyr::filter(cloak == "Cloak") %>%
+  dplyr::sample_n(7) %>%
+  dplyr::select(id) %>%
+  dplyr::pull()
+
+sample_no_cloak <- cloak_tib %>%
+  dplyr::filter(cloak == "No cloak") %>%
+  dplyr::sample_n(7) %>%
+  dplyr::select(id) %>%
+  dplyr::pull()
+```
+
+.pull-left[
+### Independent design
+
+* 12 participants given an invisibility cloak
+* 12 participants not given an invisibility cloak
+* A random sample of *N* = 7 from each group is shown
+]
+
+--
+
+.pull-right[
+```{r, echo = FALSE, results = 'asis', message = FALSE}
+cloak_tib %>%
+  dplyr::arrange(cloak, id) %>%
+  dplyr::filter(id %in% c(sample_cloak, sample_no_cloak)) %>% 
+  knitr::kable(format = "html") %>% 
+  kableExtra::kable_styling(bootstrap_options = "striped")
+```
+]
+
+
+---
+```{r, echo = FALSE, message = FALSE}
+cloak_rm_tib <- here::here("data/invisibility_rm.csv") %>%
+  readr::read_csv() %>% 
+  dplyr::mutate(
+    cloak = forcats::as_factor(cloak)
+  )
+```
+
+.pull-left[
+### Repeated measures design
+
+* 12 participants given an invisibility cloak for one week
+* During a different week they did not have an invisibility cloak
+* A random subsample of *N* = 7 participants is displayed
+
+]
+
+--
+
+.pull-right[
+```{r, echo = FALSE, results = 'asis', message = FALSE}
+cloak_rm_tib %>%
+  dplyr::arrange(id) %>%
+  dplyr::filter(id %in% sample_no_cloak) %>% 
+  knitr::kable(format = "html") %>% 
+  kableExtra::kable_styling(bootstrap_options = "striped")
+```
+]
 
 ---
 
@@ -795,6 +883,8 @@ tap_tib <- here::here("data/tap_parenting.csv") %>%
 
 tap_tib
 ```
+
+--
 
 ```{r, echo = FALSE, results = 'asis', messages = FALSE}
 tap_tib %>%

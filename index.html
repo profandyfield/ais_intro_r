@@ -4,7 +4,7 @@
     <title>An Adventure in Statistics</title>
     <meta charset="utf-8" />
     <meta name="author" content="Andy Field" />
-    <meta name="date" content="2019-09-19" />
+    <meta name="date" content="2019-09-25" />
     <link href="libs/remark-css/default.css" rel="stylesheet" />
     <link href="libs/remark-css/robot-fonts.css" rel="stylesheet" />
     <script src="libs/kePrint/kePrint.js"></script>
@@ -17,7 +17,7 @@ class: center, middle, inverse, title-slide
 # An Adventure in Statistics
 ### Andy Field
 ### University of Sussex
-### 2019-09-19
+### 2019-09-25
 
 ---
 
@@ -535,10 +535,7 @@ Text~subscript~
 --
 
 .pull-left[
-&lt;div class="figure"&gt;
-&lt;img src="./images/milton_circle_2019.png" alt="Figure 1: my lovely spaniel" width="928" /&gt;
-&lt;p class="caption"&gt;Figure 1: my lovely spaniel&lt;/p&gt;
-&lt;/div&gt;
+![Figure 1: my lovely spaniel](./images/milton_circle_2019.png)
 ]
 
 ---
@@ -773,7 +770,7 @@ here::here()
 ```
 
 ```
-## [1] "/Volumes/the_repository/documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r"
+## [1] "/Volumes/Alpha Lacertae/Documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r"
 ```
 
 ```r
@@ -781,7 +778,7 @@ here::here("data")
 ```
 
 ```
-## [1] "/Volumes/the_repository/documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r/data"
+## [1] "/Volumes/Alpha Lacertae/Documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r/data"
 ```
 
 ```r
@@ -789,7 +786,7 @@ here::here("data/tap_parenting.csv")
 ```
 
 ```
-## [1] "/Volumes/the_repository/documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r/data/tap_parenting.csv"
+## [1] "/Volumes/Alpha Lacertae/Documents/Academic/teaching/an_adventure_in_statistics/ais_presentations/ais_intro_r/data/tap_parenting.csv"
 ```
 ---
 
@@ -832,6 +829,218 @@ What many (but not all) R functions require
 + Each row represents an instance of the outcome measure
 + Rows code information about that 'instance'
 
+---
+
+## Tidy data example
+
+.pull-left[
+Are invisible people mischievous?
+
+* Placed participants in an enclosed community riddled with hidden cameras
+* Measured how many mischievous acts participants performed in a week
+* Manipulated whether or not there was access to an invisibility cloak
+]
+
+.pull-right[
+![](./images/invisibility-cloak.jpg)
+]
+
+---
+
+
+
+.pull-left[
+### Independent design
+
+* 12 participants given an invisibility cloak
+* 12 participants not given an invisibility cloak
+* A random sample of *N* = 7 from each group is shown
+]
+
+--
+
+.pull-right[
+&lt;table class="table table-striped" style="margin-left: auto; margin-right: auto;"&gt;
+ &lt;thead&gt;
+  &lt;tr&gt;
+   &lt;th style="text-align:left;"&gt; id &lt;/th&gt;
+   &lt;th style="text-align:left;"&gt; cloak &lt;/th&gt;
+   &lt;th style="text-align:right;"&gt; mischief &lt;/th&gt;
+  &lt;/tr&gt;
+ &lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Collin &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; No cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 5 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Katheryn &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; No cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 0 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Kiara &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; No cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 3 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Kinaana &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; No cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 5 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Kirkpatrick &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; No cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 5 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Steven &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; No cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 2 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Tyler &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; No cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 6 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Conan &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 6 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Devante &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 7 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Jerry &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 5 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Jorge &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 6 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Joseph &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 5 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Kathryn &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 2 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Tamara &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 8 &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+]
+
+
+---
+
+
+.pull-left[
+### Repeated measures design
+
+* 12 participants given an invisibility cloak for one week
+* During a different week they did not have an invisibility cloak
+* A random subsample of *N* = 7 participants is displayed
+
+]
+
+--
+
+.pull-right[
+&lt;table class="table table-striped" style="margin-left: auto; margin-right: auto;"&gt;
+ &lt;thead&gt;
+  &lt;tr&gt;
+   &lt;th style="text-align:left;"&gt; id &lt;/th&gt;
+   &lt;th style="text-align:left;"&gt; cloak &lt;/th&gt;
+   &lt;th style="text-align:right;"&gt; mischief &lt;/th&gt;
+  &lt;/tr&gt;
+ &lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Collin &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; No cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 5 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Collin &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 6 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Katheryn &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; No cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 0 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Katheryn &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 2 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Kiara &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; No cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 3 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Kiara &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 4 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Kinaana &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; No cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 5 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Kinaana &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 5 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Kirkpatrick &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; No cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 5 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Kirkpatrick &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 5 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Steven &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; No cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 2 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Steven &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 4 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Tyler &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; No cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 6 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; Tyler &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Cloak &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 5 &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+]
 
 ---
 
@@ -842,6 +1051,8 @@ tap_tib &lt;- here::here("data/tap_parenting.csv") %&gt;%
 
 tap_tib
 ```
+
+--
 
 &lt;table class="table table-striped" style="margin-left: auto; margin-right: auto;"&gt;
 &lt;caption&gt;tap_parenting.csv&lt;/caption&gt;
