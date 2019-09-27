@@ -1,0 +1,1741 @@
+id,intervention,efficacy,did_bhv,id_school,time_cat,intention,time_num,positivity
+zy56g,Group,3,0,school_1,baseline,35,0,5
+xt30h,Leaflet,3,1,school_1,baseline,36,0,3
+st59q,Group,4,0,school_1,baseline,34,0,4
+vh02j,Group,7,1,school_1,baseline,33,0,2
+vn97y,Leaflet,3,1,school_1,baseline,31,0,3
+av87d,Leaflet,5,1,school_1,baseline,36,0,4
+nu84x,Leaflet,3,0,school_1,baseline,33,0,6
+zr06y,Group,7,1,school_1,baseline,34,0,5
+ls25l,Leaflet,2,0,school_1,baseline,32,0,3
+zp67x,Group,5,0,school_1,baseline,35,0,2
+cl17s,Leaflet,4,0,school_1,baseline,31,0,1
+mk77p,Leaflet,1,1,school_1,baseline,31,0,4
+fq17q,Leaflet,4,0,school_1,baseline,39,0,3
+uq46y,Group,2,0,school_1,baseline,31,0,3
+yw08x,Leaflet,3,1,school_1,baseline,34,0,1
+be19g,Leaflet,2,1,school_1,baseline,33,0,2
+pg16k,Leaflet,1,0,school_1,baseline,32,0,3
+cd07q,Leaflet,4,1,school_1,baseline,31,0,-0
+oa19u,Leaflet,5,1,school_1,baseline,39,0,5
+zn75z,Leaflet,6,1,school_1,baseline,39,0,3
+ls49f,Group,2,0,school_1,baseline,33,0,5
+wn84i,Leaflet,4,0,school_1,baseline,35,0,5
+bd82x,Group,4,0,school_1,baseline,36,0,2
+vo27r,Group,2,0,school_1,baseline,34,0,4
+be64q,Leaflet,5,0,school_1,baseline,37,0,5
+jh85z,Leaflet,3,1,school_1,baseline,31,0,6
+wp32l,Leaflet,3,1,school_1,baseline,39,0,4
+sp41i,Leaflet,4,1,school_1,baseline,32,0,3
+td43k,Group,3,1,school_1,baseline,37,0,4
+yw43h,Leaflet,3,0,school_1,baseline,38,0,5
+kf95s,Leaflet,4,0,school_1,baseline,40,0,3
+xu78z,Group,3,1,school_1,baseline,39,0,5
+sx64a,Group,2,1,school_1,baseline,30,0,3
+ty76a,Group,3,1,school_1,baseline,37,0,3
+qx81b,Leaflet,6,1,school_1,baseline,37,0,2
+cj86n,Group,4,1,school_1,baseline,33,0,3
+wv30u,Group,5,0,school_1,baseline,38,0,2
+sr15d,Leaflet,5,1,school_1,baseline,31,0,3
+nt73v,Leaflet,1,1,school_1,baseline,34,0,4
+iz93c,Leaflet,6,1,school_1,baseline,32,0,3
+qd46p,Group,5,0,school_1,baseline,34,0,3
+oi03m,Leaflet,4,1,school_1,baseline,32,0,3
+cl42y,Leaflet,2,1,school_1,baseline,34,0,6
+na06v,Leaflet,7,1,school_1,baseline,33,0,3
+fl73z,Leaflet,3,1,school_1,baseline,39,0,4
+lp56n,Leaflet,2,1,school_1,baseline,35,0,3
+ot96u,Leaflet,5,1,school_1,baseline,36,0,5
+rq47j,Group,4,1,school_1,baseline,38,0,4
+un42m,Leaflet,4,1,school_1,baseline,31,0,5
+ij19c,Leaflet,6,0,school_1,baseline,38,0,7
+wa25r,Leaflet,5,1,school_1,baseline,36,0,4
+rp87t,Group,2,0,school_1,baseline,38,0,2
+ph04s,Group,1,0,school_1,baseline,38,0,2
+bj82q,Group,2,1,school_1,baseline,32,0,2
+um09u,Group,3,0,school_1,baseline,37,0,0
+xi58m,Group,2,0,school_1,baseline,40,0,1
+wf57f,Group,5,0,school_1,baseline,36,0,3
+ha87o,Group,7,1,school_1,baseline,31,0,4
+fj39j,Group,7,1,school_1,baseline,37,0,1
+fe73q,Group,4,1,school_1,baseline,33,0,2
+gq72y,Group,4,1,school_1,baseline,36,0,3
+an97i,Leaflet,6,0,school_1,baseline,36,0,3
+qf64r,Leaflet,2,0,school_1,baseline,39,0,2
+ro63b,Leaflet,5,0,school_1,baseline,36,0,2
+rc15i,Group,1,0,school_1,baseline,35,0,1
+yu55v,Leaflet,3,0,school_1,baseline,39,0,3
+fd63y,Leaflet,1,0,school_1,baseline,32,0,4
+nj10l,Leaflet,6,1,school_1,baseline,38,0,1
+mu43d,Leaflet,3,0,school_1,baseline,31,0,2
+wb16b,Group,2,1,school_1,baseline,32,0,5
+lx01o,Leaflet,7,1,school_1,baseline,31,0,5
+yh78i,Group,3,0,school_1,baseline,31,0,3
+rt54j,Leaflet,7,1,school_1,baseline,36,0,4
+lk72m,Leaflet,6,0,school_1,baseline,36,0,5
+wh84r,Leaflet,4,1,school_1,baseline,38,0,4
+gq14o,Leaflet,7,1,school_2,baseline,46,0,4
+zi17v,Leaflet,2,1,school_2,baseline,57,0,4
+sr21c,Group,5,1,school_2,baseline,54,0,3
+ty13t,Leaflet,5,1,school_2,baseline,58,0,5
+je57h,Group,2,0,school_2,baseline,40,0,5
+oj51t,Leaflet,5,0,school_2,baseline,51,0,4
+rj57i,Leaflet,2,1,school_2,baseline,55,0,4
+jw39b,Leaflet,5,0,school_2,baseline,44,0,4
+wv39a,Group,5,1,school_2,baseline,50,0,4
+ss37b,Leaflet,1,1,school_2,baseline,51,0,5
+ux36z,Leaflet,3,0,school_2,baseline,38,0,1
+pb64a,Leaflet,7,1,school_2,baseline,47,0,4
+de29d,Leaflet,4,1,school_2,baseline,47,0,3
+gm64z,Group,4,1,school_2,baseline,58,0,2
+zh32j,Leaflet,6,0,school_2,baseline,36,0,5
+kl57k,Group,2,1,school_2,baseline,37,0,3
+jj30v,Leaflet,7,1,school_2,baseline,57,0,4
+pf34h,Group,7,0,school_2,baseline,37,0,4
+gw47g,Leaflet,5,1,school_2,baseline,51,0,4
+ya54f,Group,5,1,school_2,baseline,51,0,4
+ct53v,Leaflet,5,1,school_2,baseline,41,0,2
+bn54k,Group,6,1,school_2,baseline,42,0,3
+cd75z,Leaflet,3,1,school_2,baseline,57,0,5
+lg19v,Leaflet,3,1,school_2,baseline,59,0,4
+am46w,Leaflet,3,0,school_2,baseline,36,0,5
+dt63g,Leaflet,3,0,school_2,baseline,59,0,5
+ft49m,Leaflet,3,0,school_2,baseline,38,0,2
+tp88l,Leaflet,2,1,school_2,baseline,35,0,3
+sr73g,Leaflet,6,1,school_2,baseline,44,0,4
+hx22o,Leaflet,3,1,school_2,baseline,40,0,1
+pf52v,Group,4,1,school_2,baseline,51,0,4
+uu74x,Leaflet,6,1,school_2,baseline,40,0,4
+sx28q,Group,6,1,school_2,baseline,45,0,3
+zx20n,Leaflet,3,1,school_2,baseline,53,0,4
+nr05g,Leaflet,4,0,school_2,baseline,58,0,3
+aw19n,Group,2,1,school_2,baseline,60,0,4
+fm47z,Leaflet,1,1,school_2,baseline,60,0,4
+ds61q,Leaflet,2,0,school_2,baseline,38,0,3
+cn63p,Group,2,0,school_2,baseline,43,0,3
+ef13t,Group,2,1,school_2,baseline,42,0,3
+zp56v,Leaflet,5,1,school_2,baseline,47,0,4
+gn41i,Leaflet,6,0,school_2,baseline,40,0,2
+rp73h,Group,6,1,school_2,baseline,52,0,5
+az70d,Group,3,0,school_2,baseline,45,0,6
+ja42s,Group,5,1,school_2,baseline,40,0,5
+wr85r,Group,2,0,school_2,baseline,36,0,4
+cr43b,Group,1,0,school_2,baseline,36,0,2
+oz18c,Group,1,1,school_2,baseline,51,0,2
+qh16e,Leaflet,3,0,school_2,baseline,42,0,4
+ae88u,Leaflet,5,0,school_2,baseline,36,0,2
+ys10v,Group,6,0,school_2,baseline,40,0,4
+uk31w,Leaflet,3,0,school_2,baseline,48,0,2
+bq18h,Group,6,0,school_2,baseline,48,0,3
+iw06g,Group,1,1,school_2,baseline,55,0,3
+vq71p,Leaflet,5,1,school_2,baseline,51,0,2
+bn96r,Group,4,0,school_2,baseline,45,0,2
+zi33b,Leaflet,3,0,school_2,baseline,37,0,3
+qu66u,Leaflet,1,0,school_2,baseline,46,0,3
+cy45b,Group,6,0,school_2,baseline,47,0,2
+sd72z,Group,6,1,school_2,baseline,48,0,4
+ov46m,Leaflet,5,0,school_2,baseline,38,0,3
+kg68x,Leaflet,4,1,school_2,baseline,54,0,5
+mv86v,Group,7,0,school_2,baseline,53,0,5
+iz10m,Group,6,1,school_2,baseline,59,0,3
+zg80f,Group,6,1,school_2,baseline,54,0,3
+nj52l,Group,6,0,school_2,baseline,51,0,2
+rd99g,Group,3,1,school_2,baseline,46,0,2
+si16n,Group,6,1,school_2,baseline,58,0,3
+mv82s,Leaflet,6,1,school_2,baseline,46,0,1
+gj65a,Group,2,0,school_2,baseline,48,0,5
+pw60a,Leaflet,3,0,school_2,baseline,60,0,2
+cg91b,Group,6,1,school_2,baseline,57,0,4
+qo77w,Leaflet,4,0,school_2,baseline,54,0,4
+xa33w,Leaflet,3,0,school_2,baseline,44,0,4
+ry07w,Group,1,0,school_2,baseline,38,0,1
+nn63z,Leaflet,3,0,school_2,baseline,60,0,3
+dk09g,Group,6,1,school_2,baseline,54,0,4
+kg65g,Leaflet,5,0,school_2,baseline,42,0,3
+ka87e,Leaflet,6,0,school_2,baseline,45,0,-0
+nf33v,Group,4,1,school_3,baseline,44,0,2
+ej67s,Leaflet,5,1,school_3,baseline,44,0,5
+qn77i,Leaflet,3,1,school_3,baseline,44,0,4
+ca82t,Group,3,0,school_3,baseline,31,0,3
+ha14c,Group,3,0,school_3,baseline,42,0,1
+vd38v,Group,6,0,school_3,baseline,42,0,3
+ag36o,Group,3,1,school_3,baseline,39,0,2
+fw01w,Group,4,1,school_3,baseline,41,0,5
+hm62q,Group,6,1,school_3,baseline,42,0,0
+ca99j,Group,5,1,school_3,baseline,32,0,2
+hv20o,Leaflet,4,0,school_3,baseline,43,0,5
+xr79v,Group,3,1,school_3,baseline,33,0,4
+nq52n,Group,4,1,school_3,baseline,38,0,3
+rl07e,Group,4,0,school_3,baseline,34,0,3
+sn69o,Leaflet,7,0,school_3,baseline,34,0,5
+wm55a,Group,5,0,school_3,baseline,36,0,4
+cn44f,Leaflet,2,0,school_3,baseline,35,0,3
+ko01g,Leaflet,3,1,school_3,baseline,42,0,2
+fw24l,Group,5,1,school_3,baseline,44,0,2
+xk61z,Group,4,1,school_3,baseline,39,0,2
+ch42j,Leaflet,2,0,school_3,baseline,31,0,4
+dy57n,Leaflet,6,1,school_3,baseline,44,0,2
+sw21t,Leaflet,6,1,school_3,baseline,34,0,2
+fa27y,Leaflet,2,0,school_3,baseline,40,0,4
+ca50b,Group,5,1,school_3,baseline,40,0,4
+kv71v,Group,2,1,school_3,baseline,34,0,5
+xs17l,Group,2,1,school_3,baseline,39,0,3
+xn20f,Group,6,1,school_3,baseline,32,0,4
+ws77x,Leaflet,3,1,school_3,baseline,37,0,4
+un31x,Group,4,1,school_3,baseline,31,0,4
+en16u,Leaflet,1,0,school_3,baseline,45,0,3
+pb55m,Leaflet,2,0,school_3,baseline,44,0,2
+ye17p,Group,3,1,school_3,baseline,44,0,4
+xi16n,Leaflet,4,1,school_3,baseline,40,0,4
+kr17l,Group,2,1,school_3,baseline,33,0,1
+eu23w,Leaflet,1,0,school_3,baseline,44,0,4
+ga27r,Leaflet,7,0,school_3,baseline,32,0,1
+pf23k,Group,2,0,school_3,baseline,35,0,4
+ov37x,Leaflet,1,0,school_3,baseline,42,0,3
+rp61k,Group,2,0,school_3,baseline,37,0,3
+uf13l,Leaflet,3,0,school_3,baseline,30,0,2
+mo58b,Group,3,1,school_3,baseline,30,0,2
+at57p,Leaflet,2,0,school_3,baseline,38,0,4
+ps85i,Group,6,0,school_3,baseline,42,0,2
+mw47e,Group,3,1,school_3,baseline,38,0,4
+zs71x,Leaflet,6,1,school_3,baseline,43,0,3
+up29e,Group,1,1,school_3,baseline,33,0,2
+uf76l,Group,5,0,school_3,baseline,36,0,4
+xj13p,Group,7,0,school_3,baseline,32,0,5
+vn38i,Group,3,0,school_3,baseline,31,0,3
+gp64z,Group,6,1,school_3,baseline,36,0,5
+ox31k,Group,2,1,school_3,baseline,38,0,3
+au02e,Group,4,1,school_3,baseline,31,0,3
+qa96e,Group,2,0,school_3,baseline,33,0,4
+nw15v,Leaflet,5,1,school_3,baseline,37,0,3
+yu05y,Leaflet,2,1,school_3,baseline,39,0,3
+kl05l,Leaflet,3,0,school_3,baseline,43,0,4
+ys50j,Leaflet,4,1,school_3,baseline,35,0,4
+ff76l,Group,6,1,school_3,baseline,35,0,6
+lf23i,Leaflet,6,1,school_3,baseline,33,0,3
+jl11s,Leaflet,6,1,school_3,baseline,38,0,3
+jm88w,Group,3,1,school_3,baseline,39,0,3
+bf08o,Group,7,1,school_3,baseline,33,0,4
+ic99z,Group,4,1,school_3,baseline,31,0,3
+gg04k,Group,6,1,school_3,baseline,38,0,4
+dc23o,Group,6,1,school_3,baseline,31,0,3
+hx41x,Group,6,0,school_3,baseline,42,0,4
+cl10n,Leaflet,5,1,school_3,baseline,34,0,4
+bs10z,Group,6,0,school_3,baseline,32,0,3
+re87v,Group,6,1,school_3,baseline,43,0,2
+hv17j,Group,1,0,school_3,baseline,37,0,0
+mq53q,Leaflet,2,1,school_3,baseline,38,0,3
+ao04c,Leaflet,4,0,school_3,baseline,35,0,2
+yl37y,Group,3,1,school_3,baseline,33,0,1
+cn85q,Leaflet,6,0,school_3,baseline,36,0,3
+xw08l,Leaflet,5,1,school_3,baseline,36,0,3
+la30a,Leaflet,6,1,school_3,baseline,32,0,3
+ne98k,Group,3,0,school_3,baseline,41,0,3
+pw53h,Group,5,1,school_3,baseline,35,0,5
+ew26n,Leaflet,2,1,school_3,baseline,35,0,3
+qq61k,Leaflet,3,0,school_3,baseline,33,0,3
+lx68m,Leaflet,6,0,school_3,baseline,39,0,1
+ib82u,Group,7,1,school_3,baseline,31,0,8
+cq06v,Leaflet,5,0,school_3,baseline,31,0,2
+tw35j,Group,2,1,school_4,baseline,42,0,2
+dd63c,Leaflet,6,0,school_4,baseline,42,0,6
+ig89v,Group,5,1,school_4,baseline,41,0,4
+zd63w,Group,5,1,school_4,baseline,41,0,4
+tc40d,Group,6,1,school_4,baseline,42,0,3
+sp43w,Group,5,1,school_4,baseline,43,0,7
+gi95s,Group,6,1,school_4,baseline,41,0,2
+mi81o,Group,4,1,school_4,baseline,42,0,3
+jr59k,Leaflet,5,0,school_4,baseline,43,0,5
+iq23f,Group,4,1,school_4,baseline,44,0,4
+bp92k,Leaflet,5,1,school_4,baseline,42,0,5
+tt11k,Leaflet,4,1,school_4,baseline,43,0,3
+jg09d,Group,6,0,school_4,baseline,44,0,1
+no44r,Group,7,1,school_4,baseline,44,0,4
+ph58v,Group,2,1,school_4,baseline,40,0,4
+oq73u,Leaflet,2,0,school_4,baseline,41,0,1
+la56x,Group,6,1,school_4,baseline,43,0,5
+te59i,Group,4,1,school_4,baseline,44,0,3
+kg94c,Group,6,1,school_4,baseline,41,0,3
+un30u,Group,5,1,school_4,baseline,42,0,6
+gu89m,Leaflet,4,0,school_4,baseline,40,0,6
+no38y,Group,5,1,school_4,baseline,42,0,0
+di78a,Leaflet,3,0,school_4,baseline,40,0,4
+fc43b,Leaflet,1,1,school_4,baseline,40,0,5
+zq16m,Leaflet,5,0,school_4,baseline,42,0,5
+hq86i,Leaflet,6,0,school_4,baseline,43,0,4
+nn80q,Group,2,1,school_4,baseline,44,0,5
+lz24o,Group,4,1,school_4,baseline,41,0,5
+sc01f,Group,5,1,school_4,baseline,43,0,4
+ri58k,Group,7,0,school_4,baseline,42,0,4
+bq29v,Leaflet,1,0,school_4,baseline,41,0,1
+jm67t,Group,2,1,school_4,baseline,40,0,5
+ui95y,Group,4,1,school_4,baseline,42,0,3
+hp90p,Leaflet,6,0,school_4,baseline,42,0,1
+vs89u,Leaflet,1,0,school_4,baseline,44,0,5
+qr58n,Group,3,1,school_4,baseline,42,0,4
+ep02q,Leaflet,2,0,school_4,baseline,41,0,3
+ni04e,Group,2,0,school_4,baseline,45,0,3
+xi41q,Leaflet,6,0,school_4,baseline,44,0,2
+hp91q,Leaflet,3,1,school_4,baseline,43,0,2
+kx77e,Leaflet,7,0,school_4,baseline,44,0,6
+ug71v,Leaflet,6,1,school_4,baseline,40,0,4
+wc74v,Group,5,1,school_4,baseline,41,0,4
+bt13c,Group,7,1,school_4,baseline,41,0,3
+ra64j,Leaflet,5,1,school_4,baseline,41,0,5
+ip19f,Group,3,1,school_4,baseline,41,0,6
+pf72w,Group,6,1,school_4,baseline,44,0,5
+nz86u,Leaflet,3,1,school_4,baseline,42,0,3
+mi38j,Group,3,0,school_4,baseline,43,0,5
+sp55a,Leaflet,5,0,school_4,baseline,43,0,1
+ia41e,Leaflet,5,1,school_4,baseline,41,0,5
+fj49l,Leaflet,4,1,school_4,baseline,40,0,5
+bm32w,Leaflet,5,1,school_4,baseline,43,0,3
+ay90v,Leaflet,2,1,school_4,baseline,43,0,2
+wr15l,Leaflet,3,0,school_4,baseline,45,0,4
+er66v,Group,4,1,school_4,baseline,44,0,4
+dy11u,Leaflet,4,1,school_4,baseline,43,0,4
+ge32z,Group,2,1,school_4,baseline,43,0,3
+ul75r,Group,4,1,school_4,baseline,43,0,2
+cl42x,Group,3,1,school_4,baseline,42,0,3
+pd71g,Leaflet,1,0,school_4,baseline,44,0,2
+vw97x,Group,4,1,school_4,baseline,44,0,4
+ww91p,Leaflet,2,1,school_4,baseline,45,0,4
+ya01p,Leaflet,3,1,school_4,baseline,42,0,5
+lp09r,Leaflet,1,1,school_4,baseline,45,0,5
+au90b,Group,3,0,school_4,baseline,42,0,6
+ni51x,Group,2,0,school_4,baseline,45,0,4
+iu18u,Leaflet,3,0,school_4,baseline,42,0,1
+wn86l,Leaflet,4,1,school_4,baseline,41,0,3
+qk44i,Group,4,1,school_4,baseline,42,0,2
+qe85z,Leaflet,3,1,school_4,baseline,42,0,6
+xs47d,Group,2,1,school_4,baseline,42,0,4
+xf55i,Leaflet,1,0,school_4,baseline,45,0,5
+hk24z,Group,1,1,school_4,baseline,42,0,2
+du60n,Group,5,0,school_4,baseline,42,0,6
+wx61m,Group,6,1,school_4,baseline,42,0,4
+gj31m,Group,6,0,school_4,baseline,45,0,2
+tg72y,Leaflet,6,0,school_4,baseline,40,0,3
+bl53q,Leaflet,3,0,school_4,baseline,42,0,3
+cy13y,Leaflet,3,0,school_4,baseline,41,0,4
+nb97x,Group,1,1,school_4,baseline,40,0,2
+za73q,Group,5,0,school_4,baseline,42,0,1
+og14t,Group,1,0,school_4,baseline,40,0,3
+ot48x,Leaflet,2,0,school_4,baseline,44,0,5
+hs03q,Leaflet,5,1,school_5,baseline,41,0,4
+wl18w,Group,2,1,school_5,baseline,55,0,3
+sm56t,Group,7,1,school_5,baseline,43,0,2
+sl39r,Leaflet,3,1,school_5,baseline,53,0,5
+au83o,Group,5,1,school_5,baseline,50,0,4
+hj72b,Leaflet,5,0,school_5,baseline,46,0,2
+uc26x,Group,6,1,school_5,baseline,58,0,6
+uu91a,Group,5,1,school_5,baseline,51,0,3
+ij20v,Group,1,1,school_5,baseline,50,0,3
+qv79w,Leaflet,7,1,school_5,baseline,53,0,5
+qe09u,Leaflet,5,1,school_5,baseline,48,0,6
+ds53k,Group,3,1,school_5,baseline,59,0,6
+gz71a,Leaflet,6,0,school_5,baseline,56,0,6
+hs08l,Group,4,1,school_5,baseline,53,0,6
+ax10w,Leaflet,1,1,school_5,baseline,41,0,4
+ht08n,Leaflet,3,1,school_5,baseline,50,0,5
+gs98w,Leaflet,6,0,school_5,baseline,47,0,4
+cy66f,Group,7,1,school_5,baseline,41,0,3
+sy66r,Group,3,1,school_5,baseline,51,0,2
+hh64k,Leaflet,6,0,school_5,baseline,51,0,4
+gg84a,Leaflet,6,1,school_5,baseline,50,0,3
+rf28l,Leaflet,3,1,school_5,baseline,59,0,3
+xl68o,Leaflet,3,1,school_5,baseline,42,0,6
+rk56o,Leaflet,3,1,school_5,baseline,54,0,3
+fs89g,Leaflet,6,1,school_5,baseline,50,0,6
+tw97m,Leaflet,4,1,school_5,baseline,57,0,4
+vz24j,Group,3,1,school_5,baseline,48,0,1
+ur99u,Group,6,1,school_5,baseline,51,0,3
+jg41a,Leaflet,2,0,school_5,baseline,58,0,3
+rt17w,Leaflet,4,0,school_5,baseline,46,0,4
+zv60k,Group,7,1,school_5,baseline,45,0,5
+bb59g,Leaflet,6,1,school_5,baseline,51,0,2
+lz05z,Leaflet,4,0,school_5,baseline,50,0,3
+qc47p,Group,4,1,school_5,baseline,52,0,3
+jp20l,Leaflet,4,1,school_5,baseline,41,0,5
+pn65v,Leaflet,6,1,school_5,baseline,45,0,4
+qv21q,Leaflet,5,0,school_5,baseline,52,0,1
+fs19a,Group,2,0,school_5,baseline,57,0,4
+ww34n,Group,6,1,school_5,baseline,55,0,3
+wd70p,Group,2,0,school_5,baseline,47,0,4
+nm18w,Group,4,1,school_5,baseline,56,0,4
+je78m,Group,7,1,school_5,baseline,41,0,3
+xo40e,Group,1,0,school_5,baseline,46,0,5
+yc03e,Leaflet,6,0,school_5,baseline,57,0,4
+ks01b,Group,4,1,school_5,baseline,50,0,4
+bt31w,Group,1,1,school_5,baseline,47,0,3
+bl57f,Group,3,0,school_5,baseline,51,0,2
+gl49m,Group,3,1,school_5,baseline,42,0,2
+py16u,Group,2,1,school_5,baseline,53,0,5
+pw30r,Group,1,1,school_5,baseline,44,0,3
+cv39s,Leaflet,6,1,school_5,baseline,42,0,5
+md01n,Leaflet,2,0,school_5,baseline,41,0,0
+kl52h,Group,4,1,school_5,baseline,54,0,5
+ka95u,Leaflet,5,1,school_5,baseline,59,0,3
+cy49f,Leaflet,4,1,school_5,baseline,60,0,4
+qu36v,Leaflet,3,1,school_5,baseline,59,0,5
+qi40m,Leaflet,6,0,school_5,baseline,48,0,2
+nd76f,Leaflet,1,1,school_5,baseline,41,0,5
+sn45o,Leaflet,6,1,school_5,baseline,44,0,4
+nq05z,Group,1,1,school_5,baseline,55,0,2
+cf81p,Group,4,0,school_6,baseline,54,0,4
+ph20u,Group,6,1,school_6,baseline,51,0,5
+yo43y,Leaflet,7,1,school_6,baseline,52,0,6
+rl57l,Group,6,1,school_6,baseline,58,0,5
+tc61u,Leaflet,6,1,school_6,baseline,57,0,4
+ir45d,Group,3,1,school_6,baseline,56,0,2
+hf87u,Leaflet,2,1,school_6,baseline,56,0,5
+fh29j,Leaflet,3,1,school_6,baseline,57,0,4
+cm98r,Group,6,1,school_6,baseline,55,0,3
+kg51u,Leaflet,5,1,school_6,baseline,51,0,3
+nx97o,Leaflet,7,0,school_6,baseline,55,0,4
+bq99w,Leaflet,2,1,school_6,baseline,57,0,3
+rr72t,Group,7,1,school_6,baseline,56,0,4
+ru84t,Leaflet,5,0,school_6,baseline,60,0,7
+lx93d,Group,2,1,school_6,baseline,59,0,3
+ji19z,Group,1,1,school_6,baseline,59,0,3
+bc44z,Group,2,1,school_6,baseline,51,0,4
+jy88i,Leaflet,5,1,school_6,baseline,60,0,2
+hz66d,Leaflet,3,0,school_6,baseline,57,0,5
+ox01v,Group,3,1,school_6,baseline,53,0,2
+qe89m,Leaflet,6,1,school_6,baseline,60,0,5
+iw35k,Group,1,1,school_6,baseline,50,0,2
+in05p,Group,5,1,school_6,baseline,52,0,5
+tj46e,Group,6,0,school_6,baseline,54,0,5
+oq39u,Leaflet,6,1,school_6,baseline,51,0,1
+ac09v,Group,4,1,school_6,baseline,54,0,5
+xf80k,Leaflet,4,0,school_6,baseline,53,0,5
+cv70x,Group,1,1,school_6,baseline,53,0,4
+gs17d,Leaflet,5,1,school_6,baseline,55,0,3
+ec36e,Leaflet,3,0,school_6,baseline,54,0,3
+ey93t,Group,2,0,school_6,baseline,56,0,5
+hq76j,Leaflet,7,1,school_6,baseline,51,0,5
+lu09u,Group,2,1,school_6,baseline,50,0,2
+gl59q,Leaflet,2,1,school_6,baseline,53,0,2
+tr21q,Leaflet,6,1,school_6,baseline,53,0,4
+yn32g,Group,6,0,school_6,baseline,51,0,3
+lo35x,Group,1,1,school_6,baseline,59,0,6
+bm90w,Leaflet,3,1,school_6,baseline,52,0,4
+ad43a,Group,3,1,school_6,baseline,57,0,4
+eo79g,Leaflet,4,1,school_6,baseline,60,0,6
+xv91m,Group,2,1,school_6,baseline,55,0,1
+je26b,Leaflet,6,1,school_6,baseline,53,0,8
+au86c,Group,4,1,school_6,baseline,53,0,6
+ya08a,Group,3,1,school_6,baseline,56,0,4
+jr83r,Group,7,0,school_6,baseline,53,0,2
+ie88i,Group,5,1,school_6,baseline,56,0,3
+mm22q,Leaflet,7,0,school_6,baseline,59,0,1
+ee31q,Group,6,1,school_6,baseline,58,0,6
+tm35q,Group,1,1,school_6,baseline,54,0,3
+uj90o,Leaflet,2,0,school_6,baseline,56,0,3
+xp90l,Group,5,1,school_6,baseline,54,0,6
+pt74t,Leaflet,5,0,school_6,baseline,58,0,6
+bf67l,Group,6,0,school_6,baseline,52,0,5
+ao32u,Leaflet,4,1,school_6,baseline,52,0,5
+aq71s,Group,5,1,school_6,baseline,57,0,7
+rt70g,Leaflet,2,0,school_6,baseline,54,0,4
+ff06c,Group,2,0,school_7,baseline,33,0,3
+wf75s,Group,6,1,school_7,baseline,31,0,3
+oz57m,Group,4,1,school_7,baseline,28,0,6
+aa54j,Group,7,1,school_7,baseline,28,0,1
+aw39c,Group,5,1,school_7,baseline,32,0,1
+dx99e,Group,6,1,school_7,baseline,34,0,3
+hu15p,Group,2,1,school_7,baseline,27,0,3
+sx94h,Group,3,1,school_7,baseline,25,0,5
+xb60k,Leaflet,3,0,school_7,baseline,25,0,3
+th48p,Group,6,0,school_7,baseline,31,0,3
+az96g,Group,4,0,school_7,baseline,29,0,4
+in45k,Leaflet,6,0,school_7,baseline,33,0,4
+bx90v,Group,6,0,school_7,baseline,35,0,4
+xr13q,Group,1,1,school_7,baseline,27,0,4
+ad17o,Leaflet,6,1,school_7,baseline,26,0,2
+iw85e,Group,7,1,school_7,baseline,30,0,5
+ob20f,Leaflet,4,1,school_7,baseline,33,0,3
+ki74g,Group,4,1,school_7,baseline,32,0,4
+ep33w,Leaflet,6,1,school_7,baseline,27,0,0
+nt58o,Group,2,0,school_7,baseline,31,0,6
+mb31h,Group,4,1,school_7,baseline,29,0,4
+ez13r,Group,6,0,school_7,baseline,28,0,2
+of92d,Leaflet,3,0,school_7,baseline,35,0,4
+ro64t,Group,5,1,school_7,baseline,25,0,1
+pi20c,Leaflet,4,1,school_7,baseline,25,0,4
+fh77t,Group,3,1,school_7,baseline,29,0,1
+gv92i,Leaflet,4,1,school_7,baseline,33,0,3
+dj25b,Leaflet,5,1,school_7,baseline,34,0,5
+pf35a,Group,2,1,school_7,baseline,26,0,2
+pu01m,Group,3,0,school_7,baseline,27,0,3
+ut61h,Group,2,0,school_7,baseline,34,0,3
+wf43k,Group,4,1,school_7,baseline,33,0,5
+ft99p,Group,5,1,school_7,baseline,33,0,3
+nv41h,Leaflet,2,0,school_7,baseline,31,0,2
+kf87k,Leaflet,6,0,school_7,baseline,34,0,4
+kr01o,Group,5,0,school_7,baseline,28,0,2
+tf11u,Leaflet,5,1,school_7,baseline,30,0,3
+hb30j,Group,5,1,school_7,baseline,31,0,2
+rm31m,Leaflet,4,1,school_7,baseline,27,0,2
+xd36d,Group,6,0,school_7,baseline,33,0,2
+av37v,Leaflet,4,0,school_7,baseline,34,0,4
+dd17t,Leaflet,5,1,school_7,baseline,26,0,3
+in96y,Group,2,1,school_7,baseline,31,0,6
+wt82j,Group,2,0,school_7,baseline,25,0,3
+at98p,Group,3,1,school_7,baseline,26,0,1
+fu53p,Group,4,1,school_7,baseline,31,0,2
+oo97h,Leaflet,4,0,school_7,baseline,33,0,3
+zr78w,Group,7,1,school_7,baseline,32,0,3
+qn40a,Leaflet,5,1,school_8,baseline,40,0,2
+ih77j,Group,5,1,school_8,baseline,35,0,2
+ii21b,Leaflet,2,0,school_8,baseline,30,0,3
+hf77e,Group,5,0,school_8,baseline,43,0,3
+xb93o,Group,4,0,school_8,baseline,47,0,3
+rk48w,Leaflet,2,0,school_8,baseline,46,0,4
+ga64d,Group,2,0,school_8,baseline,50,0,7
+st97g,Leaflet,3,1,school_8,baseline,56,0,5
+eb32d,Leaflet,5,0,school_8,baseline,30,0,4
+gg04t,Leaflet,2,1,school_8,baseline,35,0,4
+zn65r,Group,6,1,school_8,baseline,48,0,3
+wn30f,Group,3,1,school_8,baseline,51,0,5
+xx10f,Leaflet,6,1,school_8,baseline,54,0,2
+tb95a,Group,1,1,school_8,baseline,51,0,4
+cw77m,Leaflet,4,1,school_8,baseline,53,0,4
+nt36d,Leaflet,3,0,school_8,baseline,42,0,1
+gr23b,Leaflet,6,0,school_8,baseline,46,0,1
+fb15j,Group,3,1,school_8,baseline,35,0,2
+ia15h,Group,1,0,school_8,baseline,36,0,3
+iy86x,Group,6,1,school_8,baseline,54,0,4
+dz44h,Leaflet,3,0,school_8,baseline,59,0,4
+rk82u,Group,3,0,school_8,baseline,44,0,5
+dk45d,Group,2,0,school_8,baseline,32,0,1
+ey36j,Leaflet,5,0,school_8,baseline,57,0,5
+hx62o,Leaflet,4,1,school_8,baseline,34,0,2
+hx26s,Leaflet,4,0,school_8,baseline,37,0,3
+xj83l,Leaflet,1,1,school_8,baseline,58,0,6
+fs42r,Group,5,1,school_8,baseline,36,0,3
+te95g,Group,7,0,school_8,baseline,47,0,4
+xl87m,Leaflet,3,0,school_8,baseline,36,0,3
+ha32m,Leaflet,7,1,school_8,baseline,32,0,5
+ez20p,Leaflet,6,1,school_8,baseline,37,0,5
+ve64x,Leaflet,4,1,school_8,baseline,31,0,2
+no70q,Leaflet,6,1,school_8,baseline,47,0,4
+hi70p,Leaflet,4,1,school_8,baseline,53,0,6
+ec18v,Leaflet,6,1,school_8,baseline,55,0,2
+iv42h,Group,6,1,school_8,baseline,55,0,3
+sj63z,Leaflet,1,1,school_8,baseline,49,0,4
+au97m,Group,6,0,school_8,baseline,60,0,3
+lk40p,Group,6,1,school_8,baseline,38,0,4
+ai96o,Leaflet,6,0,school_8,baseline,56,0,3
+kf82u,Group,6,1,school_8,baseline,41,0,3
+oh80q,Group,1,0,school_8,baseline,42,0,3
+vs06d,Leaflet,5,1,school_8,baseline,40,0,5
+qt26i,Leaflet,7,1,school_8,baseline,54,0,6
+bq50d,Group,1,1,school_8,baseline,55,0,4
+zi25j,Leaflet,1,0,school_8,baseline,53,0,2
+xe80j,Group,4,0,school_8,baseline,43,0,5
+iq03l,Group,4,1,school_8,baseline,40,0,3
+ty27s,Leaflet,4,1,school_8,baseline,54,0,6
+qb76s,Group,1,1,school_8,baseline,31,0,2
+jl86o,Leaflet,3,0,school_8,baseline,34,0,4
+je25m,Leaflet,2,0,school_8,baseline,33,0,4
+cn73o,Leaflet,2,0,school_8,baseline,55,0,3
+yv75w,Leaflet,1,0,school_8,baseline,36,0,3
+ps29v,Leaflet,5,1,school_8,baseline,33,0,4
+mu06y,Group,3,0,school_8,baseline,33,0,5
+ph79n,Leaflet,5,0,school_8,baseline,36,0,3
+iq71v,Leaflet,4,1,school_8,baseline,53,0,3
+kl91c,Leaflet,2,0,school_8,baseline,39,0,1
+vt69m,Group,2,1,school_8,baseline,38,0,4
+ka15p,Group,3,0,school_8,baseline,39,0,5
+aj14b,Leaflet,7,1,school_8,baseline,50,0,3
+zt51y,Leaflet,3,1,school_8,baseline,42,0,5
+ce32c,Group,4,0,school_8,baseline,42,0,5
+zt11r,Group,6,0,school_8,baseline,32,0,4
+vq35z,Leaflet,1,0,school_8,baseline,40,0,1
+ni61h,Group,6,1,school_8,baseline,57,0,3
+rg43t,Group,7,1,school_8,baseline,50,0,1
+gu37k,Leaflet,3,1,school_8,baseline,50,0,4
+mh94e,Leaflet,1,1,school_8,baseline,37,0,2
+df74j,Group,2,0,school_8,baseline,34,0,2
+we08y,Leaflet,7,0,school_8,baseline,40,0,3
+zt08z,Group,3,0,school_8,baseline,40,0,5
+hq14a,Leaflet,2,0,school_8,baseline,47,0,3
+tw09u,Leaflet,2,1,school_8,baseline,40,0,3
+fo87q,Group,2,0,school_8,baseline,39,0,2
+ss43s,Leaflet,3,0,school_8,baseline,35,0,3
+yk43v,Group,3,1,school_8,baseline,53,0,3
+gz52r,Leaflet,4,1,school_8,baseline,36,0,3
+yo11o,Group,3,0,school_8,baseline,42,0,4
+og20h,Group,1,1,school_8,baseline,56,0,4
+dc73i,Leaflet,6,1,school_8,baseline,37,0,5
+ms55u,Group,2,0,school_8,baseline,35,0,4
+gd23h,Group,4,0,school_8,baseline,58,0,3
+io62s,Group,6,1,school_8,baseline,56,0,5
+wr76h,Leaflet,2,1,school_8,baseline,36,0,1
+cn20s,Group,1,1,school_8,baseline,56,0,4
+hh35t,Group,2,1,school_8,baseline,50,0,6
+nr36m,Leaflet,4,0,school_8,baseline,46,0,4
+ql10s,Group,2,1,school_8,baseline,37,0,2
+oa14o,Leaflet,4,0,school_8,baseline,49,0,3
+gt67k,Group,2,0,school_8,baseline,52,0,2
+rb95a,Leaflet,2,1,school_8,baseline,58,0,5
+zy56g,Group,3,0,school_1,1 month,18,1,4
+xt30h,Leaflet,3,1,school_1,1 month,28,1,3
+st59q,Group,4,0,school_1,1 month,30,1,4
+vh02j,Group,7,1,school_1,1 month,45,1,3
+vn97y,Leaflet,3,1,school_1,1 month,47,1,2
+av87d,Leaflet,5,1,school_1,1 month,47,1,2
+nu84x,Leaflet,3,0,school_1,1 month,41,1,3
+zr06y,Group,7,1,school_1,1 month,47,1,4
+ls25l,Leaflet,2,0,school_1,1 month,31,1,3
+zp67x,Group,5,0,school_1,1 month,44,1,4
+cl17s,Leaflet,4,0,school_1,1 month,36,1,3
+mk77p,Leaflet,1,1,school_1,1 month,48,1,3
+fq17q,Leaflet,4,0,school_1,1 month,28,1,3
+uq46y,Group,2,0,school_1,1 month,39,1,5
+yw08x,Leaflet,3,1,school_1,1 month,33,1,2
+be19g,Leaflet,2,1,school_1,1 month,38,1,3
+pg16k,Leaflet,1,0,school_1,1 month,11,1,1
+cd07q,Leaflet,4,1,school_1,1 month,39,1,3
+oa19u,Leaflet,5,1,school_1,1 month,37,1,3
+zn75z,Leaflet,6,1,school_1,1 month,32,1,3
+ls49f,Group,2,0,school_1,1 month,42,1,2
+wn84i,Leaflet,4,0,school_1,1 month,43,1,1
+bd82x,Group,4,0,school_1,1 month,33,1,5
+vo27r,Group,2,0,school_1,1 month,34,1,1
+be64q,Leaflet,5,0,school_1,1 month,61,1,4
+jh85z,Leaflet,3,1,school_1,1 month,40,1,2
+wp32l,Leaflet,3,1,school_1,1 month,49,1,4
+sp41i,Leaflet,4,1,school_1,1 month,45,1,5
+td43k,Group,3,1,school_1,1 month,41,1,4
+yw43h,Leaflet,3,0,school_1,1 month,34,1,4
+kf95s,Leaflet,4,0,school_1,1 month,45,1,5
+xu78z,Group,3,1,school_1,1 month,22,1,2
+sx64a,Group,2,1,school_1,1 month,37,1,4
+ty76a,Group,3,1,school_1,1 month,32,1,3
+qx81b,Leaflet,6,1,school_1,1 month,35,1,2
+cj86n,Group,4,1,school_1,1 month,28,1,2
+wv30u,Group,5,0,school_1,1 month,40,1,3
+sr15d,Leaflet,5,1,school_1,1 month,40,1,3
+nt73v,Leaflet,1,1,school_1,1 month,46,1,3
+iz93c,Leaflet,6,1,school_1,1 month,59,1,5
+qd46p,Group,5,0,school_1,1 month,47,1,4
+oi03m,Leaflet,4,1,school_1,1 month,29,1,3
+cl42y,Leaflet,2,1,school_1,1 month,50,1,5
+na06v,Leaflet,7,1,school_1,1 month,45,1,6
+fl73z,Leaflet,3,1,school_1,1 month,34,1,4
+lp56n,Leaflet,2,1,school_1,1 month,34,1,3
+ot96u,Leaflet,5,1,school_1,1 month,37,1,5
+rq47j,Group,4,1,school_1,1 month,65,1,4
+un42m,Leaflet,4,1,school_1,1 month,20,1,3
+ij19c,Leaflet,6,0,school_1,1 month,45,1,2
+wa25r,Leaflet,5,1,school_1,1 month,38,1,4
+rp87t,Group,2,0,school_1,1 month,39,1,4
+ph04s,Group,1,0,school_1,1 month,33,1,4
+bj82q,Group,2,1,school_1,1 month,31,1,3
+um09u,Group,3,0,school_1,1 month,38,1,5
+xi58m,Group,2,0,school_1,1 month,37,1,3
+wf57f,Group,5,0,school_1,1 month,32,1,3
+ha87o,Group,7,1,school_1,1 month,26,1,2
+fj39j,Group,7,1,school_1,1 month,39,1,4
+fe73q,Group,4,1,school_1,1 month,30,1,2
+gq72y,Group,4,1,school_1,1 month,33,1,4
+an97i,Leaflet,6,0,school_1,1 month,48,1,6
+qf64r,Leaflet,2,0,school_1,1 month,43,1,2
+ro63b,Leaflet,5,0,school_1,1 month,42,1,2
+rc15i,Group,1,0,school_1,1 month,25,1,3
+yu55v,Leaflet,3,0,school_1,1 month,30,1,3
+fd63y,Leaflet,1,0,school_1,1 month,52,1,4
+nj10l,Leaflet,6,1,school_1,1 month,26,1,4
+mu43d,Leaflet,3,0,school_1,1 month,27,1,1
+wb16b,Group,2,1,school_1,1 month,29,1,1
+lx01o,Leaflet,7,1,school_1,1 month,30,1,2
+yh78i,Group,3,0,school_1,1 month,33,1,5
+rt54j,Leaflet,7,1,school_1,1 month,29,1,1
+lk72m,Leaflet,6,0,school_1,1 month,23,1,2
+wh84r,Leaflet,4,1,school_1,1 month,35,1,1
+gq14o,Leaflet,7,1,school_2,1 month,30,1,1
+zi17v,Leaflet,2,1,school_2,1 month,62,1,4
+sr21c,Group,5,1,school_2,1 month,81,1,7
+ty13t,Leaflet,5,1,school_2,1 month,61,1,3
+je57h,Group,2,0,school_2,1 month,44,1,5
+oj51t,Leaflet,5,0,school_2,1 month,47,1,5
+rj57i,Leaflet,2,1,school_2,1 month,48,1,5
+jw39b,Leaflet,5,0,school_2,1 month,54,1,3
+wv39a,Group,5,1,school_2,1 month,58,1,5
+ss37b,Leaflet,1,1,school_2,1 month,50,1,3
+ux36z,Leaflet,3,0,school_2,1 month,36,1,5
+pb64a,Leaflet,7,1,school_2,1 month,50,1,3
+de29d,Leaflet,4,1,school_2,1 month,37,1,2
+gm64z,Group,4,1,school_2,1 month,70,1,5
+zh32j,Leaflet,6,0,school_2,1 month,53,1,6
+kl57k,Group,2,1,school_2,1 month,40,1,4
+jj30v,Leaflet,7,1,school_2,1 month,70,1,4
+pf34h,Group,7,0,school_2,1 month,55,1,2
+gw47g,Leaflet,5,1,school_2,1 month,50,1,3
+ya54f,Group,5,1,school_2,1 month,53,1,4
+ct53v,Leaflet,5,1,school_2,1 month,52,1,5
+bn54k,Group,6,1,school_2,1 month,55,1,4
+cd75z,Leaflet,3,1,school_2,1 month,64,1,4
+lg19v,Leaflet,3,1,school_2,1 month,43,1,5
+am46w,Leaflet,3,0,school_2,1 month,55,1,5
+dt63g,Leaflet,3,0,school_2,1 month,51,1,4
+ft49m,Leaflet,3,0,school_2,1 month,48,1,3
+tp88l,Leaflet,2,1,school_2,1 month,37,1,4
+sr73g,Leaflet,6,1,school_2,1 month,48,1,4
+hx22o,Leaflet,3,1,school_2,1 month,36,1,4
+pf52v,Group,4,1,school_2,1 month,69,1,4
+uu74x,Leaflet,6,1,school_2,1 month,66,1,5
+sx28q,Group,6,1,school_2,1 month,65,1,5
+zx20n,Leaflet,3,1,school_2,1 month,52,1,4
+nr05g,Leaflet,4,0,school_2,1 month,58,1,5
+aw19n,Group,2,1,school_2,1 month,55,1,5
+fm47z,Leaflet,1,1,school_2,1 month,72,1,6
+ds61q,Leaflet,2,0,school_2,1 month,35,1,3
+cn63p,Group,2,0,school_2,1 month,42,1,3
+ef13t,Group,2,1,school_2,1 month,40,1,3
+zp56v,Leaflet,5,1,school_2,1 month,78,1,3
+gn41i,Leaflet,6,0,school_2,1 month,62,1,3
+rp73h,Group,6,1,school_2,1 month,59,1,3
+az70d,Group,3,0,school_2,1 month,59,1,6
+ja42s,Group,5,1,school_2,1 month,50,1,5
+wr85r,Group,2,0,school_2,1 month,44,1,4
+cr43b,Group,1,0,school_2,1 month,34,1,3
+oz18c,Group,1,1,school_2,1 month,50,1,3
+qh16e,Leaflet,3,0,school_2,1 month,19,1,0
+ae88u,Leaflet,5,0,school_2,1 month,33,1,4
+ys10v,Group,6,0,school_2,1 month,64,1,5
+uk31w,Leaflet,3,0,school_2,1 month,49,1,2
+bq18h,Group,6,0,school_2,1 month,49,1,5
+iw06g,Group,1,1,school_2,1 month,57,1,4
+vq71p,Leaflet,5,1,school_2,1 month,50,1,4
+bn96r,Group,4,0,school_2,1 month,32,1,3
+zi33b,Leaflet,3,0,school_2,1 month,37,1,5
+qu66u,Leaflet,1,0,school_2,1 month,44,1,5
+cy45b,Group,6,0,school_2,1 month,37,1,5
+sd72z,Group,6,1,school_2,1 month,69,1,7
+ov46m,Leaflet,5,0,school_2,1 month,49,1,5
+kg68x,Leaflet,4,1,school_2,1 month,47,1,4
+mv86v,Group,7,0,school_2,1 month,56,1,3
+iz10m,Group,6,1,school_2,1 month,60,1,7
+zg80f,Group,6,1,school_2,1 month,56,1,3
+nj52l,Group,6,0,school_2,1 month,78,1,7
+rd99g,Group,3,1,school_2,1 month,61,1,3
+si16n,Group,6,1,school_2,1 month,67,1,4
+mv82s,Leaflet,6,1,school_2,1 month,55,1,7
+gj65a,Group,2,0,school_2,1 month,59,1,6
+pw60a,Leaflet,3,0,school_2,1 month,64,1,5
+cg91b,Group,6,1,school_2,1 month,85,1,4
+qo77w,Leaflet,4,0,school_2,1 month,74,1,5
+xa33w,Leaflet,3,0,school_2,1 month,30,1,3
+ry07w,Group,1,0,school_2,1 month,47,1,5
+nn63z,Leaflet,3,0,school_2,1 month,76,1,5
+dk09g,Group,6,1,school_2,1 month,57,1,7
+kg65g,Leaflet,5,0,school_2,1 month,40,1,5
+ka87e,Leaflet,6,0,school_2,1 month,57,1,5
+nf33v,Group,4,1,school_3,1 month,47,1,5
+ej67s,Leaflet,5,1,school_3,1 month,51,1,4
+qn77i,Leaflet,3,1,school_3,1 month,37,1,3
+ca82t,Group,3,0,school_3,1 month,26,1,1
+ha14c,Group,3,0,school_3,1 month,63,1,5
+vd38v,Group,6,0,school_3,1 month,71,1,2
+ag36o,Group,3,1,school_3,1 month,36,1,2
+fw01w,Group,4,1,school_3,1 month,32,1,2
+hm62q,Group,6,1,school_3,1 month,66,1,4
+ca99j,Group,5,1,school_3,1 month,43,1,4
+hv20o,Leaflet,4,0,school_3,1 month,65,1,6
+xr79v,Group,3,1,school_3,1 month,51,1,5
+nq52n,Group,4,1,school_3,1 month,33,1,2
+rl07e,Group,4,0,school_3,1 month,43,1,-0
+sn69o,Leaflet,7,0,school_3,1 month,41,1,3
+wm55a,Group,5,0,school_3,1 month,54,1,4
+cn44f,Leaflet,2,0,school_3,1 month,39,1,3
+ko01g,Leaflet,3,1,school_3,1 month,50,1,4
+fw24l,Group,5,1,school_3,1 month,44,1,2
+xk61z,Group,4,1,school_3,1 month,31,1,3
+ch42j,Leaflet,2,0,school_3,1 month,43,1,5
+dy57n,Leaflet,6,1,school_3,1 month,42,1,3
+sw21t,Leaflet,6,1,school_3,1 month,41,1,2
+fa27y,Leaflet,2,0,school_3,1 month,45,1,4
+ca50b,Group,5,1,school_3,1 month,37,1,3
+kv71v,Group,2,1,school_3,1 month,42,1,5
+xs17l,Group,2,1,school_3,1 month,37,1,3
+xn20f,Group,6,1,school_3,1 month,38,1,5
+ws77x,Leaflet,3,1,school_3,1 month,33,1,-0
+un31x,Group,4,1,school_3,1 month,29,1,4
+en16u,Leaflet,1,0,school_3,1 month,57,1,5
+pb55m,Leaflet,2,0,school_3,1 month,47,1,6
+ye17p,Group,3,1,school_3,1 month,46,1,7
+xi16n,Leaflet,4,1,school_3,1 month,58,1,2
+kr17l,Group,2,1,school_3,1 month,18,1,1
+eu23w,Leaflet,1,0,school_3,1 month,54,1,3
+ga27r,Leaflet,7,0,school_3,1 month,38,1,4
+pf23k,Group,2,0,school_3,1 month,48,1,3
+ov37x,Leaflet,1,0,school_3,1 month,34,1,3
+rp61k,Group,2,0,school_3,1 month,41,1,4
+uf13l,Leaflet,3,0,school_3,1 month,50,1,3
+mo58b,Group,3,1,school_3,1 month,48,1,4
+at57p,Leaflet,2,0,school_3,1 month,28,1,3
+ps85i,Group,6,0,school_3,1 month,71,1,6
+mw47e,Group,3,1,school_3,1 month,43,1,5
+zs71x,Leaflet,6,1,school_3,1 month,48,1,4
+up29e,Group,1,1,school_3,1 month,40,1,3
+uf76l,Group,5,0,school_3,1 month,33,1,2
+xj13p,Group,7,0,school_3,1 month,54,1,5
+vn38i,Group,3,0,school_3,1 month,49,1,3
+gp64z,Group,6,1,school_3,1 month,19,1,3
+ox31k,Group,2,1,school_3,1 month,39,1,3
+au02e,Group,4,1,school_3,1 month,29,1,2
+qa96e,Group,2,0,school_3,1 month,26,1,4
+nw15v,Leaflet,5,1,school_3,1 month,16,1,4
+yu05y,Leaflet,2,1,school_3,1 month,67,1,3
+kl05l,Leaflet,3,0,school_3,1 month,44,1,4
+ys50j,Leaflet,4,1,school_3,1 month,41,1,0
+ff76l,Group,6,1,school_3,1 month,61,1,5
+lf23i,Leaflet,6,1,school_3,1 month,31,1,5
+jl11s,Leaflet,6,1,school_3,1 month,46,1,2
+jm88w,Group,3,1,school_3,1 month,56,1,5
+bf08o,Group,7,1,school_3,1 month,33,1,2
+ic99z,Group,4,1,school_3,1 month,51,1,6
+gg04k,Group,6,1,school_3,1 month,30,1,1
+dc23o,Group,6,1,school_3,1 month,21,1,3
+hx41x,Group,6,0,school_3,1 month,67,1,3
+cl10n,Leaflet,5,1,school_3,1 month,51,1,5
+bs10z,Group,6,0,school_3,1 month,44,1,3
+re87v,Group,6,1,school_3,1 month,52,1,4
+hv17j,Group,1,0,school_3,1 month,38,1,2
+mq53q,Leaflet,2,1,school_3,1 month,39,1,2
+ao04c,Leaflet,4,0,school_3,1 month,28,1,3
+yl37y,Group,3,1,school_3,1 month,36,1,3
+cn85q,Leaflet,6,0,school_3,1 month,48,1,3
+xw08l,Leaflet,5,1,school_3,1 month,26,1,3
+la30a,Leaflet,6,1,school_3,1 month,34,1,4
+ne98k,Group,3,0,school_3,1 month,39,1,5
+pw53h,Group,5,1,school_3,1 month,44,1,4
+ew26n,Leaflet,2,1,school_3,1 month,39,1,1
+qq61k,Leaflet,3,0,school_3,1 month,39,1,5
+lx68m,Leaflet,6,0,school_3,1 month,36,1,3
+ib82u,Group,7,1,school_3,1 month,42,1,4
+cq06v,Leaflet,5,0,school_3,1 month,43,1,6
+tw35j,Group,2,1,school_4,1 month,42,1,3
+dd63c,Leaflet,6,0,school_4,1 month,60,1,5
+ig89v,Group,5,1,school_4,1 month,55,1,4
+zd63w,Group,5,1,school_4,1 month,58,1,3
+tc40d,Group,6,1,school_4,1 month,44,1,2
+sp43w,Group,5,1,school_4,1 month,42,1,3
+gi95s,Group,6,1,school_4,1 month,55,1,3
+mi81o,Group,4,1,school_4,1 month,68,1,5
+jr59k,Leaflet,5,0,school_4,1 month,52,1,3
+iq23f,Group,4,1,school_4,1 month,57,1,6
+bp92k,Leaflet,5,1,school_4,1 month,64,1,4
+tt11k,Leaflet,4,1,school_4,1 month,39,1,4
+jg09d,Group,6,0,school_4,1 month,45,1,3
+no44r,Group,7,1,school_4,1 month,73,1,6
+ph58v,Group,2,1,school_4,1 month,53,1,4
+oq73u,Leaflet,2,0,school_4,1 month,47,1,5
+la56x,Group,6,1,school_4,1 month,60,1,3
+te59i,Group,4,1,school_4,1 month,47,1,2
+kg94c,Group,6,1,school_4,1 month,60,1,4
+un30u,Group,5,1,school_4,1 month,42,1,4
+gu89m,Leaflet,4,0,school_4,1 month,35,1,5
+no38y,Group,5,1,school_4,1 month,50,1,3
+di78a,Leaflet,3,0,school_4,1 month,39,1,4
+fc43b,Leaflet,1,1,school_4,1 month,36,1,3
+zq16m,Leaflet,5,0,school_4,1 month,58,1,4
+hq86i,Leaflet,6,0,school_4,1 month,43,1,6
+nn80q,Group,2,1,school_4,1 month,52,1,2
+lz24o,Group,4,1,school_4,1 month,27,1,2
+sc01f,Group,5,1,school_4,1 month,46,1,4
+ri58k,Group,7,0,school_4,1 month,63,1,3
+bq29v,Leaflet,1,0,school_4,1 month,42,1,4
+jm67t,Group,2,1,school_4,1 month,51,1,3
+ui95y,Group,4,1,school_4,1 month,62,1,3
+hp90p,Leaflet,6,0,school_4,1 month,39,1,6
+vs89u,Leaflet,1,0,school_4,1 month,34,1,5
+qr58n,Group,3,1,school_4,1 month,61,1,6
+ep02q,Leaflet,2,0,school_4,1 month,59,1,4
+ni04e,Group,2,0,school_4,1 month,53,1,4
+xi41q,Leaflet,6,0,school_4,1 month,62,1,3
+hp91q,Leaflet,3,1,school_4,1 month,43,1,3
+kx77e,Leaflet,7,0,school_4,1 month,47,1,4
+ug71v,Leaflet,6,1,school_4,1 month,44,1,3
+wc74v,Group,5,1,school_4,1 month,63,1,2
+bt13c,Group,7,1,school_4,1 month,50,1,3
+ra64j,Leaflet,5,1,school_4,1 month,42,1,3
+ip19f,Group,3,1,school_4,1 month,43,1,5
+pf72w,Group,6,1,school_4,1 month,61,1,6
+nz86u,Leaflet,3,1,school_4,1 month,36,1,5
+mi38j,Group,3,0,school_4,1 month,45,1,4
+sp55a,Leaflet,5,0,school_4,1 month,51,1,6
+ia41e,Leaflet,5,1,school_4,1 month,49,1,4
+fj49l,Leaflet,4,1,school_4,1 month,36,1,3
+bm32w,Leaflet,5,1,school_4,1 month,41,1,4
+ay90v,Leaflet,2,1,school_4,1 month,48,1,3
+wr15l,Leaflet,3,0,school_4,1 month,44,1,6
+er66v,Group,4,1,school_4,1 month,56,1,4
+dy11u,Leaflet,4,1,school_4,1 month,51,1,5
+ge32z,Group,2,1,school_4,1 month,42,1,4
+ul75r,Group,4,1,school_4,1 month,64,1,4
+cl42x,Group,3,1,school_4,1 month,61,1,4
+pd71g,Leaflet,1,0,school_4,1 month,58,1,5
+vw97x,Group,4,1,school_4,1 month,61,1,6
+ww91p,Leaflet,2,1,school_4,1 month,47,1,1
+ya01p,Leaflet,3,1,school_4,1 month,49,1,2
+lp09r,Leaflet,1,1,school_4,1 month,53,1,5
+au90b,Group,3,0,school_4,1 month,40,1,2
+ni51x,Group,2,0,school_4,1 month,45,1,2
+iu18u,Leaflet,3,0,school_4,1 month,51,1,4
+wn86l,Leaflet,4,1,school_4,1 month,33,1,1
+qk44i,Group,4,1,school_4,1 month,58,1,4
+qe85z,Leaflet,3,1,school_4,1 month,46,1,4
+xs47d,Group,2,1,school_4,1 month,79,1,6
+xf55i,Leaflet,1,0,school_4,1 month,33,1,3
+hk24z,Group,1,1,school_4,1 month,35,1,2
+du60n,Group,5,0,school_4,1 month,53,1,4
+wx61m,Group,6,1,school_4,1 month,52,1,4
+gj31m,Group,6,0,school_4,1 month,69,1,4
+tg72y,Leaflet,6,0,school_4,1 month,48,1,3
+bl53q,Leaflet,3,0,school_4,1 month,50,1,5
+cy13y,Leaflet,3,0,school_4,1 month,29,1,1
+nb97x,Group,1,1,school_4,1 month,63,1,3
+za73q,Group,5,0,school_4,1 month,61,1,4
+og14t,Group,1,0,school_4,1 month,47,1,4
+ot48x,Leaflet,2,0,school_4,1 month,42,1,1
+hs03q,Leaflet,5,1,school_5,1 month,48,1,2
+wl18w,Group,2,1,school_5,1 month,69,1,4
+sm56t,Group,7,1,school_5,1 month,43,1,3
+sl39r,Leaflet,3,1,school_5,1 month,53,1,5
+au83o,Group,5,1,school_5,1 month,58,1,5
+hj72b,Leaflet,5,0,school_5,1 month,42,1,5
+uc26x,Group,6,1,school_5,1 month,60,1,4
+uu91a,Group,5,1,school_5,1 month,58,1,3
+ij20v,Group,1,1,school_5,1 month,38,1,3
+qv79w,Leaflet,7,1,school_5,1 month,65,1,5
+qe09u,Leaflet,5,1,school_5,1 month,33,1,2
+ds53k,Group,3,1,school_5,1 month,60,1,3
+gz71a,Leaflet,6,0,school_5,1 month,58,1,3
+hs08l,Group,4,1,school_5,1 month,71,1,4
+ax10w,Leaflet,1,1,school_5,1 month,28,1,2
+ht08n,Leaflet,3,1,school_5,1 month,51,1,5
+gs98w,Leaflet,6,0,school_5,1 month,48,1,4
+cy66f,Group,7,1,school_5,1 month,43,1,3
+sy66r,Group,3,1,school_5,1 month,65,1,3
+hh64k,Leaflet,6,0,school_5,1 month,71,1,3
+gg84a,Leaflet,6,1,school_5,1 month,43,1,4
+rf28l,Leaflet,3,1,school_5,1 month,66,1,4
+xl68o,Leaflet,3,1,school_5,1 month,44,1,4
+rk56o,Leaflet,3,1,school_5,1 month,58,1,3
+fs89g,Leaflet,6,1,school_5,1 month,64,1,4
+tw97m,Leaflet,4,1,school_5,1 month,63,1,3
+vz24j,Group,3,1,school_5,1 month,62,1,4
+ur99u,Group,6,1,school_5,1 month,41,1,4
+jg41a,Leaflet,2,0,school_5,1 month,64,1,2
+rt17w,Leaflet,4,0,school_5,1 month,58,1,6
+zv60k,Group,7,1,school_5,1 month,39,1,3
+bb59g,Leaflet,6,1,school_5,1 month,63,1,6
+lz05z,Leaflet,4,0,school_5,1 month,55,1,5
+qc47p,Group,4,1,school_5,1 month,55,1,4
+jp20l,Leaflet,4,1,school_5,1 month,54,1,5
+pn65v,Leaflet,6,1,school_5,1 month,53,1,3
+qv21q,Leaflet,5,0,school_5,1 month,59,1,3
+fs19a,Group,2,0,school_5,1 month,45,1,5
+ww34n,Group,6,1,school_5,1 month,69,1,6
+wd70p,Group,2,0,school_5,1 month,38,1,2
+nm18w,Group,4,1,school_5,1 month,63,1,4
+je78m,Group,7,1,school_5,1 month,51,1,5
+xo40e,Group,1,0,school_5,1 month,37,1,3
+yc03e,Leaflet,6,0,school_5,1 month,61,1,3
+ks01b,Group,4,1,school_5,1 month,59,1,4
+bt31w,Group,1,1,school_5,1 month,39,1,2
+bl57f,Group,3,0,school_5,1 month,41,1,3
+gl49m,Group,3,1,school_5,1 month,50,1,4
+py16u,Group,2,1,school_5,1 month,50,1,3
+pw30r,Group,1,1,school_5,1 month,64,1,4
+cv39s,Leaflet,6,1,school_5,1 month,32,1,1
+md01n,Leaflet,2,0,school_5,1 month,29,1,4
+kl52h,Group,4,1,school_5,1 month,61,1,3
+ka95u,Leaflet,5,1,school_5,1 month,71,1,6
+cy49f,Leaflet,4,1,school_5,1 month,60,1,4
+qu36v,Leaflet,3,1,school_5,1 month,65,1,5
+qi40m,Leaflet,6,0,school_5,1 month,55,1,4
+nd76f,Leaflet,1,1,school_5,1 month,53,1,5
+sn45o,Leaflet,6,1,school_5,1 month,47,1,3
+nq05z,Group,1,1,school_5,1 month,69,1,4
+cf81p,Group,4,0,school_6,1 month,59,1,3
+ph20u,Group,6,1,school_6,1 month,75,1,3
+yo43y,Leaflet,7,1,school_6,1 month,65,1,3
+rl57l,Group,6,1,school_6,1 month,55,1,4
+tc61u,Leaflet,6,1,school_6,1 month,57,1,3
+ir45d,Group,3,1,school_6,1 month,59,1,5
+hf87u,Leaflet,2,1,school_6,1 month,61,1,4
+fh29j,Leaflet,3,1,school_6,1 month,59,1,5
+cm98r,Group,6,1,school_6,1 month,67,1,4
+kg51u,Leaflet,5,1,school_6,1 month,58,1,4
+nx97o,Leaflet,7,0,school_6,1 month,74,1,3
+bq99w,Leaflet,2,1,school_6,1 month,59,1,2
+rr72t,Group,7,1,school_6,1 month,61,1,3
+ru84t,Leaflet,5,0,school_6,1 month,58,1,3
+lx93d,Group,2,1,school_6,1 month,45,1,4
+ji19z,Group,1,1,school_6,1 month,65,1,3
+bc44z,Group,2,1,school_6,1 month,60,1,4
+jy88i,Leaflet,5,1,school_6,1 month,68,1,4
+hz66d,Leaflet,3,0,school_6,1 month,65,1,1
+ox01v,Group,3,1,school_6,1 month,57,1,7
+qe89m,Leaflet,6,1,school_6,1 month,75,1,4
+iw35k,Group,1,1,school_6,1 month,64,1,7
+in05p,Group,5,1,school_6,1 month,67,1,7
+tj46e,Group,6,0,school_6,1 month,70,1,5
+oq39u,Leaflet,6,1,school_6,1 month,65,1,2
+ac09v,Group,4,1,school_6,1 month,48,1,5
+xf80k,Leaflet,4,0,school_6,1 month,49,1,5
+cv70x,Group,1,1,school_6,1 month,55,1,4
+gs17d,Leaflet,5,1,school_6,1 month,66,1,1
+ec36e,Leaflet,3,0,school_6,1 month,66,1,4
+ey93t,Group,2,0,school_6,1 month,69,1,5
+hq76j,Leaflet,7,1,school_6,1 month,49,1,2
+lu09u,Group,2,1,school_6,1 month,67,1,4
+gl59q,Leaflet,2,1,school_6,1 month,47,1,2
+tr21q,Leaflet,6,1,school_6,1 month,56,1,2
+yn32g,Group,6,0,school_6,1 month,64,1,3
+lo35x,Group,1,1,school_6,1 month,58,1,3
+bm90w,Leaflet,3,1,school_6,1 month,57,1,2
+ad43a,Group,3,1,school_6,1 month,51,1,3
+eo79g,Leaflet,4,1,school_6,1 month,49,1,6
+xv91m,Group,2,1,school_6,1 month,55,1,5
+je26b,Leaflet,6,1,school_6,1 month,58,1,5
+au86c,Group,4,1,school_6,1 month,51,1,4
+ya08a,Group,3,1,school_6,1 month,65,1,3
+jr83r,Group,7,0,school_6,1 month,80,1,5
+ie88i,Group,5,1,school_6,1 month,48,1,5
+mm22q,Leaflet,7,0,school_6,1 month,65,1,4
+ee31q,Group,6,1,school_6,1 month,66,1,3
+tm35q,Group,1,1,school_6,1 month,63,1,0
+uj90o,Leaflet,2,0,school_6,1 month,59,1,4
+xp90l,Group,5,1,school_6,1 month,71,1,3
+pt74t,Leaflet,5,0,school_6,1 month,70,1,7
+bf67l,Group,6,0,school_6,1 month,65,1,5
+ao32u,Leaflet,4,1,school_6,1 month,66,1,4
+aq71s,Group,5,1,school_6,1 month,74,1,6
+rt70g,Leaflet,2,0,school_6,1 month,60,1,6
+ff06c,Group,2,0,school_7,1 month,37,1,3
+wf75s,Group,6,1,school_7,1 month,46,1,4
+oz57m,Group,4,1,school_7,1 month,16,1,3
+aa54j,Group,7,1,school_7,1 month,46,1,5
+aw39c,Group,5,1,school_7,1 month,43,1,4
+dx99e,Group,6,1,school_7,1 month,39,1,2
+hu15p,Group,2,1,school_7,1 month,39,1,8
+sx94h,Group,3,1,school_7,1 month,26,1,5
+xb60k,Leaflet,3,0,school_7,1 month,44,1,4
+th48p,Group,6,0,school_7,1 month,29,1,3
+az96g,Group,4,0,school_7,1 month,44,1,3
+in45k,Leaflet,6,0,school_7,1 month,25,1,3
+bx90v,Group,6,0,school_7,1 month,33,1,4
+xr13q,Group,1,1,school_7,1 month,17,1,2
+ad17o,Leaflet,6,1,school_7,1 month,28,1,5
+iw85e,Group,7,1,school_7,1 month,39,1,3
+ob20f,Leaflet,4,1,school_7,1 month,30,1,3
+ki74g,Group,4,1,school_7,1 month,38,1,4
+ep33w,Leaflet,6,1,school_7,1 month,25,1,1
+nt58o,Group,2,0,school_7,1 month,35,1,3
+mb31h,Group,4,1,school_7,1 month,37,1,5
+ez13r,Group,6,0,school_7,1 month,31,1,3
+of92d,Leaflet,3,0,school_7,1 month,42,1,2
+ro64t,Group,5,1,school_7,1 month,23,1,4
+pi20c,Leaflet,4,1,school_7,1 month,18,1,2
+fh77t,Group,3,1,school_7,1 month,40,1,4
+gv92i,Leaflet,4,1,school_7,1 month,29,1,4
+dj25b,Leaflet,5,1,school_7,1 month,34,1,6
+pf35a,Group,2,1,school_7,1 month,36,1,2
+pu01m,Group,3,0,school_7,1 month,32,1,4
+ut61h,Group,2,0,school_7,1 month,53,1,2
+wf43k,Group,4,1,school_7,1 month,50,1,2
+ft99p,Group,5,1,school_7,1 month,32,1,3
+nv41h,Leaflet,2,0,school_7,1 month,8,1,-0
+kf87k,Leaflet,6,0,school_7,1 month,40,1,1
+kr01o,Group,5,0,school_7,1 month,34,1,3
+tf11u,Leaflet,5,1,school_7,1 month,36,1,1
+hb30j,Group,5,1,school_7,1 month,42,1,4
+rm31m,Leaflet,4,1,school_7,1 month,27,1,5
+xd36d,Group,6,0,school_7,1 month,55,1,5
+av37v,Leaflet,4,0,school_7,1 month,40,1,2
+dd17t,Leaflet,5,1,school_7,1 month,12,1,2
+in96y,Group,2,1,school_7,1 month,36,1,4
+wt82j,Group,2,0,school_7,1 month,31,1,2
+at98p,Group,3,1,school_7,1 month,29,1,4
+fu53p,Group,4,1,school_7,1 month,38,1,2
+oo97h,Leaflet,4,0,school_7,1 month,19,1,2
+zr78w,Group,7,1,school_7,1 month,46,1,4
+qn40a,Leaflet,5,1,school_8,1 month,37,1,2
+ih77j,Group,5,1,school_8,1 month,53,1,2
+ii21b,Leaflet,2,0,school_8,1 month,38,1,3
+hf77e,Group,5,0,school_8,1 month,56,1,3
+xb93o,Group,4,0,school_8,1 month,72,1,6
+rk48w,Leaflet,2,0,school_8,1 month,66,1,2
+ga64d,Group,2,0,school_8,1 month,64,1,4
+st97g,Leaflet,3,1,school_8,1 month,73,1,3
+eb32d,Leaflet,5,0,school_8,1 month,15,1,4
+gg04t,Leaflet,2,1,school_8,1 month,36,1,2
+zn65r,Group,6,1,school_8,1 month,57,1,3
+wn30f,Group,3,1,school_8,1 month,67,1,4
+xx10f,Leaflet,6,1,school_8,1 month,58,1,5
+tb95a,Group,1,1,school_8,1 month,36,1,5
+cw77m,Leaflet,4,1,school_8,1 month,53,1,5
+nt36d,Leaflet,3,0,school_8,1 month,39,1,6
+gr23b,Leaflet,6,0,school_8,1 month,61,1,5
+fb15j,Group,3,1,school_8,1 month,35,1,4
+ia15h,Group,1,0,school_8,1 month,28,1,7
+iy86x,Group,6,1,school_8,1 month,65,1,4
+dz44h,Leaflet,3,0,school_8,1 month,60,1,6
+rk82u,Group,3,0,school_8,1 month,44,1,3
+dk45d,Group,2,0,school_8,1 month,40,1,6
+ey36j,Leaflet,5,0,school_8,1 month,59,1,4
+hx62o,Leaflet,4,1,school_8,1 month,31,1,5
+hx26s,Leaflet,4,0,school_8,1 month,36,1,2
+xj83l,Leaflet,1,1,school_8,1 month,57,1,2
+fs42r,Group,5,1,school_8,1 month,24,1,3
+te95g,Group,7,0,school_8,1 month,56,1,4
+xl87m,Leaflet,3,0,school_8,1 month,45,1,2
+ha32m,Leaflet,7,1,school_8,1 month,31,1,4
+ez20p,Leaflet,6,1,school_8,1 month,33,1,4
+ve64x,Leaflet,4,1,school_8,1 month,36,1,2
+no70q,Leaflet,6,1,school_8,1 month,66,1,5
+hi70p,Leaflet,4,1,school_8,1 month,45,1,5
+ec18v,Leaflet,6,1,school_8,1 month,48,1,3
+iv42h,Group,6,1,school_8,1 month,58,1,4
+sj63z,Leaflet,1,1,school_8,1 month,61,1,3
+au97m,Group,6,0,school_8,1 month,84,1,6
+lk40p,Group,6,1,school_8,1 month,46,1,1
+ai96o,Leaflet,6,0,school_8,1 month,67,1,5
+kf82u,Group,6,1,school_8,1 month,63,1,4
+oh80q,Group,1,0,school_8,1 month,47,1,6
+vs06d,Leaflet,5,1,school_8,1 month,49,1,5
+qt26i,Leaflet,7,1,school_8,1 month,56,1,2
+bq50d,Group,1,1,school_8,1 month,65,1,2
+zi25j,Leaflet,1,0,school_8,1 month,62,1,5
+xe80j,Group,4,0,school_8,1 month,45,1,6
+iq03l,Group,4,1,school_8,1 month,63,1,4
+ty27s,Leaflet,4,1,school_8,1 month,46,1,2
+qb76s,Group,1,1,school_8,1 month,24,1,2
+jl86o,Leaflet,3,0,school_8,1 month,31,1,5
+je25m,Leaflet,2,0,school_8,1 month,34,1,3
+cn73o,Leaflet,2,0,school_8,1 month,61,1,4
+yv75w,Leaflet,1,0,school_8,1 month,32,1,2
+ps29v,Leaflet,5,1,school_8,1 month,34,1,2
+mu06y,Group,3,0,school_8,1 month,16,1,2
+ph79n,Leaflet,5,0,school_8,1 month,35,1,4
+iq71v,Leaflet,4,1,school_8,1 month,56,1,4
+kl91c,Leaflet,2,0,school_8,1 month,49,1,5
+vt69m,Group,2,1,school_8,1 month,22,1,4
+ka15p,Group,3,0,school_8,1 month,41,1,2
+aj14b,Leaflet,7,1,school_8,1 month,68,1,3
+zt51y,Leaflet,3,1,school_8,1 month,55,1,8
+ce32c,Group,4,0,school_8,1 month,48,1,3
+zt11r,Group,6,0,school_8,1 month,37,1,6
+vq35z,Leaflet,1,0,school_8,1 month,39,1,5
+ni61h,Group,6,1,school_8,1 month,73,1,6
+rg43t,Group,7,1,school_8,1 month,57,1,4
+gu37k,Leaflet,3,1,school_8,1 month,58,1,5
+mh94e,Leaflet,1,1,school_8,1 month,49,1,4
+df74j,Group,2,0,school_8,1 month,32,1,1
+we08y,Leaflet,7,0,school_8,1 month,32,1,4
+zt08z,Group,3,0,school_8,1 month,40,1,1
+hq14a,Leaflet,2,0,school_8,1 month,39,1,3
+tw09u,Leaflet,2,1,school_8,1 month,35,1,3
+fo87q,Group,2,0,school_8,1 month,55,1,4
+ss43s,Leaflet,3,0,school_8,1 month,32,1,5
+yk43v,Group,3,1,school_8,1 month,67,1,3
+gz52r,Leaflet,4,1,school_8,1 month,54,1,2
+yo11o,Group,3,0,school_8,1 month,67,1,5
+og20h,Group,1,1,school_8,1 month,46,1,6
+dc73i,Leaflet,6,1,school_8,1 month,50,1,5
+ms55u,Group,2,0,school_8,1 month,44,1,4
+gd23h,Group,4,0,school_8,1 month,76,1,4
+io62s,Group,6,1,school_8,1 month,65,1,4
+wr76h,Leaflet,2,1,school_8,1 month,39,1,4
+cn20s,Group,1,1,school_8,1 month,59,1,3
+hh35t,Group,2,1,school_8,1 month,76,1,3
+nr36m,Leaflet,4,0,school_8,1 month,57,1,4
+ql10s,Group,2,1,school_8,1 month,35,1,3
+oa14o,Leaflet,4,0,school_8,1 month,64,1,3
+gt67k,Group,2,0,school_8,1 month,41,1,4
+rb95a,Leaflet,2,1,school_8,1 month,76,1,6
+zy56g,Group,3,0,school_1,6 months,21,6,1
+xt30h,Leaflet,3,1,school_1,6 months,47,6,4
+st59q,Group,4,0,school_1,6 months,25,6,1
+vh02j,Group,7,1,school_1,6 months,44,6,4
+vn97y,Leaflet,3,1,school_1,6 months,50,6,3
+av87d,Leaflet,5,1,school_1,6 months,35,6,3
+nu84x,Leaflet,3,0,school_1,6 months,36,6,3
+zr06y,Group,7,1,school_1,6 months,35,6,4
+ls25l,Leaflet,2,0,school_1,6 months,36,6,4
+zp67x,Group,5,0,school_1,6 months,24,6,2
+cl17s,Leaflet,4,0,school_1,6 months,29,6,3
+mk77p,Leaflet,1,1,school_1,6 months,27,6,4
+fq17q,Leaflet,4,0,school_1,6 months,40,6,3
+uq46y,Group,2,0,school_1,6 months,25,6,3
+yw08x,Leaflet,3,1,school_1,6 months,38,6,3
+be19g,Leaflet,2,1,school_1,6 months,51,6,1
+pg16k,Leaflet,1,0,school_1,6 months,25,6,4
+cd07q,Leaflet,4,1,school_1,6 months,30,6,3
+oa19u,Leaflet,5,1,school_1,6 months,61,6,6
+zn75z,Leaflet,6,1,school_1,6 months,43,6,1
+ls49f,Group,2,0,school_1,6 months,24,6,4
+wn84i,Leaflet,4,0,school_1,6 months,26,6,2
+bd82x,Group,4,0,school_1,6 months,33,6,5
+vo27r,Group,2,0,school_1,6 months,28,6,3
+be64q,Leaflet,5,0,school_1,6 months,33,6,2
+jh85z,Leaflet,3,1,school_1,6 months,51,6,2
+wp32l,Leaflet,3,1,school_1,6 months,45,6,2
+sp41i,Leaflet,4,1,school_1,6 months,30,6,4
+td43k,Group,3,1,school_1,6 months,43,6,4
+yw43h,Leaflet,3,0,school_1,6 months,19,6,5
+kf95s,Leaflet,4,0,school_1,6 months,38,6,3
+xu78z,Group,3,1,school_1,6 months,51,6,3
+sx64a,Group,2,1,school_1,6 months,55,6,3
+ty76a,Group,3,1,school_1,6 months,43,6,1
+qx81b,Leaflet,6,1,school_1,6 months,50,6,4
+cj86n,Group,4,1,school_1,6 months,46,6,5
+wv30u,Group,5,0,school_1,6 months,41,6,2
+sr15d,Leaflet,5,1,school_1,6 months,44,6,2
+nt73v,Leaflet,1,1,school_1,6 months,34,6,3
+iz93c,Leaflet,6,1,school_1,6 months,43,6,3
+qd46p,Group,5,0,school_1,6 months,32,6,4
+oi03m,Leaflet,4,1,school_1,6 months,42,6,4
+cl42y,Leaflet,2,1,school_1,6 months,47,6,3
+na06v,Leaflet,7,1,school_1,6 months,44,6,4
+fl73z,Leaflet,3,1,school_1,6 months,47,6,4
+lp56n,Leaflet,2,1,school_1,6 months,30,6,4
+ot96u,Leaflet,5,1,school_1,6 months,47,6,2
+rq47j,Group,4,1,school_1,6 months,48,6,3
+un42m,Leaflet,4,1,school_1,6 months,37,6,2
+ij19c,Leaflet,6,0,school_1,6 months,25,6,3
+wa25r,Leaflet,5,1,school_1,6 months,41,6,3
+rp87t,Group,2,0,school_1,6 months,17,6,2
+ph04s,Group,1,0,school_1,6 months,30,6,3
+bj82q,Group,2,1,school_1,6 months,43,6,3
+um09u,Group,3,0,school_1,6 months,25,6,2
+xi58m,Group,2,0,school_1,6 months,36,6,3
+wf57f,Group,5,0,school_1,6 months,25,6,0
+ha87o,Group,7,1,school_1,6 months,23,6,5
+fj39j,Group,7,1,school_1,6 months,43,6,6
+fe73q,Group,4,1,school_1,6 months,37,6,1
+gq72y,Group,4,1,school_1,6 months,55,6,3
+an97i,Leaflet,6,0,school_1,6 months,27,6,3
+qf64r,Leaflet,2,0,school_1,6 months,37,6,3
+ro63b,Leaflet,5,0,school_1,6 months,30,6,2
+rc15i,Group,1,0,school_1,6 months,31,6,3
+yu55v,Leaflet,3,0,school_1,6 months,25,6,3
+fd63y,Leaflet,1,0,school_1,6 months,18,6,1
+nj10l,Leaflet,6,1,school_1,6 months,40,6,4
+mu43d,Leaflet,3,0,school_1,6 months,26,6,-0
+wb16b,Group,2,1,school_1,6 months,35,6,3
+lx01o,Leaflet,7,1,school_1,6 months,38,6,2
+yh78i,Group,3,0,school_1,6 months,26,6,0
+rt54j,Leaflet,7,1,school_1,6 months,57,6,3
+lk72m,Leaflet,6,0,school_1,6 months,32,6,3
+wh84r,Leaflet,4,1,school_1,6 months,33,6,2
+gq14o,Leaflet,7,1,school_2,6 months,46,6,3
+zi17v,Leaflet,2,1,school_2,6 months,66,6,4
+sr21c,Group,5,1,school_2,6 months,57,6,3
+ty13t,Leaflet,5,1,school_2,6 months,72,6,3
+je57h,Group,2,0,school_2,6 months,37,6,2
+oj51t,Leaflet,5,0,school_2,6 months,47,6,4
+rj57i,Leaflet,2,1,school_2,6 months,61,6,3
+jw39b,Leaflet,5,0,school_2,6 months,40,6,1
+wv39a,Group,5,1,school_2,6 months,46,6,3
+ss37b,Leaflet,1,1,school_2,6 months,52,6,2
+ux36z,Leaflet,3,0,school_2,6 months,35,6,3
+pb64a,Leaflet,7,1,school_2,6 months,50,6,3
+de29d,Leaflet,4,1,school_2,6 months,60,6,2
+gm64z,Group,4,1,school_2,6 months,54,6,7
+zh32j,Leaflet,6,0,school_2,6 months,35,6,3
+kl57k,Group,2,1,school_2,6 months,53,6,4
+jj30v,Leaflet,7,1,school_2,6 months,65,6,7
+pf34h,Group,7,0,school_2,6 months,33,6,3
+gw47g,Leaflet,5,1,school_2,6 months,70,6,3
+ya54f,Group,5,1,school_2,6 months,57,6,7
+ct53v,Leaflet,5,1,school_2,6 months,41,6,6
+bn54k,Group,6,1,school_2,6 months,52,6,4
+cd75z,Leaflet,3,1,school_2,6 months,60,6,2
+lg19v,Leaflet,3,1,school_2,6 months,53,6,5
+am46w,Leaflet,3,0,school_2,6 months,31,6,2
+dt63g,Leaflet,3,0,school_2,6 months,61,6,6
+ft49m,Leaflet,3,0,school_2,6 months,29,6,2
+tp88l,Leaflet,2,1,school_2,6 months,45,6,6
+sr73g,Leaflet,6,1,school_2,6 months,47,6,4
+hx22o,Leaflet,3,1,school_2,6 months,54,6,3
+pf52v,Group,4,1,school_2,6 months,63,6,4
+uu74x,Leaflet,6,1,school_2,6 months,42,6,3
+sx28q,Group,6,1,school_2,6 months,76,6,3
+zx20n,Leaflet,3,1,school_2,6 months,56,6,3
+nr05g,Leaflet,4,0,school_2,6 months,56,6,6
+aw19n,Group,2,1,school_2,6 months,72,6,4
+fm47z,Leaflet,1,1,school_2,6 months,67,6,4
+ds61q,Leaflet,2,0,school_2,6 months,18,6,3
+cn63p,Group,2,0,school_2,6 months,38,6,2
+ef13t,Group,2,1,school_2,6 months,59,6,4
+zp56v,Leaflet,5,1,school_2,6 months,61,6,2
+gn41i,Leaflet,6,0,school_2,6 months,35,6,4
+rp73h,Group,6,1,school_2,6 months,57,6,6
+az70d,Group,3,0,school_2,6 months,43,6,2
+ja42s,Group,5,1,school_2,6 months,60,6,3
+wr85r,Group,2,0,school_2,6 months,31,6,3
+cr43b,Group,1,0,school_2,6 months,33,6,4
+oz18c,Group,1,1,school_2,6 months,61,6,4
+qh16e,Leaflet,3,0,school_2,6 months,35,6,2
+ae88u,Leaflet,5,0,school_2,6 months,39,6,3
+ys10v,Group,6,0,school_2,6 months,40,6,3
+uk31w,Leaflet,3,0,school_2,6 months,42,6,3
+bq18h,Group,6,0,school_2,6 months,46,6,4
+iw06g,Group,1,1,school_2,6 months,69,6,4
+vq71p,Leaflet,5,1,school_2,6 months,63,6,3
+bn96r,Group,4,0,school_2,6 months,48,6,5
+zi33b,Leaflet,3,0,school_2,6 months,37,6,1
+qu66u,Leaflet,1,0,school_2,6 months,29,6,2
+cy45b,Group,6,0,school_2,6 months,42,6,4
+sd72z,Group,6,1,school_2,6 months,55,6,6
+ov46m,Leaflet,5,0,school_2,6 months,29,6,5
+kg68x,Leaflet,4,1,school_2,6 months,67,6,5
+mv86v,Group,7,0,school_2,6 months,36,6,2
+iz10m,Group,6,1,school_2,6 months,76,6,3
+zg80f,Group,6,1,school_2,6 months,72,6,4
+nj52l,Group,6,0,school_2,6 months,48,6,5
+rd99g,Group,3,1,school_2,6 months,60,6,4
+si16n,Group,6,1,school_2,6 months,75,6,5
+mv82s,Leaflet,6,1,school_2,6 months,49,6,2
+gj65a,Group,2,0,school_2,6 months,43,6,2
+pw60a,Leaflet,3,0,school_2,6 months,56,6,3
+cg91b,Group,6,1,school_2,6 months,67,6,4
+qo77w,Leaflet,4,0,school_2,6 months,39,6,3
+xa33w,Leaflet,3,0,school_2,6 months,35,6,5
+ry07w,Group,1,0,school_2,6 months,36,6,4
+nn63z,Leaflet,3,0,school_2,6 months,56,6,3
+dk09g,Group,6,1,school_2,6 months,67,6,5
+kg65g,Leaflet,5,0,school_2,6 months,36,6,4
+ka87e,Leaflet,6,0,school_2,6 months,47,6,4
+nf33v,Group,4,1,school_3,6 months,49,6,3
+ej67s,Leaflet,5,1,school_3,6 months,51,6,4
+qn77i,Leaflet,3,1,school_3,6 months,58,6,5
+ca82t,Group,3,0,school_3,6 months,25,6,3
+ha14c,Group,3,0,school_3,6 months,41,6,3
+vd38v,Group,6,0,school_3,6 months,32,6,6
+ag36o,Group,3,1,school_3,6 months,52,6,4
+fw01w,Group,4,1,school_3,6 months,64,6,6
+hm62q,Group,6,1,school_3,6 months,63,6,2
+ca99j,Group,5,1,school_3,6 months,49,6,4
+hv20o,Leaflet,4,0,school_3,6 months,36,6,2
+xr79v,Group,3,1,school_3,6 months,51,6,5
+nq52n,Group,4,1,school_3,6 months,57,6,1
+rl07e,Group,4,0,school_3,6 months,28,6,2
+sn69o,Leaflet,7,0,school_3,6 months,22,6,4
+wm55a,Group,5,0,school_3,6 months,22,6,2
+cn44f,Leaflet,2,0,school_3,6 months,29,6,3
+ko01g,Leaflet,3,1,school_3,6 months,33,6,4
+fw24l,Group,5,1,school_3,6 months,66,6,4
+xk61z,Group,4,1,school_3,6 months,52,6,2
+ch42j,Leaflet,2,0,school_3,6 months,28,6,4
+dy57n,Leaflet,6,1,school_3,6 months,53,6,3
+sw21t,Leaflet,6,1,school_3,6 months,60,6,4
+fa27y,Leaflet,2,0,school_3,6 months,35,6,3
+ca50b,Group,5,1,school_3,6 months,49,6,5
+kv71v,Group,2,1,school_3,6 months,45,6,5
+xs17l,Group,2,1,school_3,6 months,51,6,4
+xn20f,Group,6,1,school_3,6 months,32,6,2
+ws77x,Leaflet,3,1,school_3,6 months,49,6,4
+un31x,Group,4,1,school_3,6 months,41,6,3
+en16u,Leaflet,1,0,school_3,6 months,33,6,3
+pb55m,Leaflet,2,0,school_3,6 months,29,6,2
+ye17p,Group,3,1,school_3,6 months,51,6,4
+xi16n,Leaflet,4,1,school_3,6 months,56,6,5
+kr17l,Group,2,1,school_3,6 months,44,6,3
+eu23w,Leaflet,1,0,school_3,6 months,40,6,3
+ga27r,Leaflet,7,0,school_3,6 months,30,6,2
+pf23k,Group,2,0,school_3,6 months,13,6,1
+ov37x,Leaflet,1,0,school_3,6 months,29,6,4
+rp61k,Group,2,0,school_3,6 months,39,6,4
+uf13l,Leaflet,3,0,school_3,6 months,9,6,2
+mo58b,Group,3,1,school_3,6 months,43,6,5
+at57p,Leaflet,2,0,school_3,6 months,34,6,2
+ps85i,Group,6,0,school_3,6 months,39,6,5
+mw47e,Group,3,1,school_3,6 months,55,6,2
+zs71x,Leaflet,6,1,school_3,6 months,58,6,3
+up29e,Group,1,1,school_3,6 months,35,6,6
+uf76l,Group,5,0,school_3,6 months,33,6,3
+xj13p,Group,7,0,school_3,6 months,31,6,3
+vn38i,Group,3,0,school_3,6 months,28,6,3
+gp64z,Group,6,1,school_3,6 months,69,6,7
+ox31k,Group,2,1,school_3,6 months,33,6,3
+au02e,Group,4,1,school_3,6 months,43,6,4
+qa96e,Group,2,0,school_3,6 months,14,6,2
+nw15v,Leaflet,5,1,school_3,6 months,56,6,4
+yu05y,Leaflet,2,1,school_3,6 months,41,6,3
+kl05l,Leaflet,3,0,school_3,6 months,38,6,1
+ys50j,Leaflet,4,1,school_3,6 months,47,6,5
+ff76l,Group,6,1,school_3,6 months,43,6,2
+lf23i,Leaflet,6,1,school_3,6 months,47,6,7
+jl11s,Leaflet,6,1,school_3,6 months,43,6,5
+jm88w,Group,3,1,school_3,6 months,41,6,3
+bf08o,Group,7,1,school_3,6 months,34,6,6
+ic99z,Group,4,1,school_3,6 months,55,6,3
+gg04k,Group,6,1,school_3,6 months,51,6,3
+dc23o,Group,6,1,school_3,6 months,41,6,5
+hx41x,Group,6,0,school_3,6 months,52,6,2
+cl10n,Leaflet,5,1,school_3,6 months,43,6,3
+bs10z,Group,6,0,school_3,6 months,31,6,5
+re87v,Group,6,1,school_3,6 months,68,6,5
+hv17j,Group,1,0,school_3,6 months,26,6,4
+mq53q,Leaflet,2,1,school_3,6 months,52,6,1
+ao04c,Leaflet,4,0,school_3,6 months,25,6,2
+yl37y,Group,3,1,school_3,6 months,34,6,3
+cn85q,Leaflet,6,0,school_3,6 months,28,6,2
+xw08l,Leaflet,5,1,school_3,6 months,37,6,4
+la30a,Leaflet,6,1,school_3,6 months,40,6,4
+ne98k,Group,3,0,school_3,6 months,38,6,3
+pw53h,Group,5,1,school_3,6 months,47,6,6
+ew26n,Leaflet,2,1,school_3,6 months,42,6,2
+qq61k,Leaflet,3,0,school_3,6 months,24,6,3
+lx68m,Leaflet,6,0,school_3,6 months,32,6,4
+ib82u,Group,7,1,school_3,6 months,54,6,2
+cq06v,Leaflet,5,0,school_3,6 months,28,6,5
+tw35j,Group,2,1,school_4,6 months,51,6,1
+dd63c,Leaflet,6,0,school_4,6 months,31,6,2
+ig89v,Group,5,1,school_4,6 months,53,6,5
+zd63w,Group,5,1,school_4,6 months,47,6,2
+tc40d,Group,6,1,school_4,6 months,65,6,4
+sp43w,Group,5,1,school_4,6 months,70,6,5
+gi95s,Group,6,1,school_4,6 months,52,6,3
+mi81o,Group,4,1,school_4,6 months,68,6,5
+jr59k,Leaflet,5,0,school_4,6 months,37,6,3
+iq23f,Group,4,1,school_4,6 months,56,6,4
+bp92k,Leaflet,5,1,school_4,6 months,46,6,2
+tt11k,Leaflet,4,1,school_4,6 months,60,6,5
+jg09d,Group,6,0,school_4,6 months,41,6,4
+no44r,Group,7,1,school_4,6 months,75,6,5
+ph58v,Group,2,1,school_4,6 months,49,6,2
+oq73u,Leaflet,2,0,school_4,6 months,22,6,3
+la56x,Group,6,1,school_4,6 months,43,6,4
+te59i,Group,4,1,school_4,6 months,57,6,4
+kg94c,Group,6,1,school_4,6 months,45,6,5
+un30u,Group,5,1,school_4,6 months,47,6,4
+gu89m,Leaflet,4,0,school_4,6 months,41,6,3
+no38y,Group,5,1,school_4,6 months,64,6,3
+di78a,Leaflet,3,0,school_4,6 months,30,6,2
+fc43b,Leaflet,1,1,school_4,6 months,58,6,3
+zq16m,Leaflet,5,0,school_4,6 months,37,6,5
+hq86i,Leaflet,6,0,school_4,6 months,42,6,4
+nn80q,Group,2,1,school_4,6 months,50,6,4
+lz24o,Group,4,1,school_4,6 months,61,6,3
+sc01f,Group,5,1,school_4,6 months,55,6,3
+ri58k,Group,7,0,school_4,6 months,41,6,3
+bq29v,Leaflet,1,0,school_4,6 months,21,6,3
+jm67t,Group,2,1,school_4,6 months,45,6,3
+ui95y,Group,4,1,school_4,6 months,50,6,5
+hp90p,Leaflet,6,0,school_4,6 months,43,6,2
+vs89u,Leaflet,1,0,school_4,6 months,33,6,5
+qr58n,Group,3,1,school_4,6 months,44,6,1
+ep02q,Leaflet,2,0,school_4,6 months,31,6,4
+ni04e,Group,2,0,school_4,6 months,32,6,3
+xi41q,Leaflet,6,0,school_4,6 months,45,6,1
+hp91q,Leaflet,3,1,school_4,6 months,46,6,5
+kx77e,Leaflet,7,0,school_4,6 months,37,6,3
+ug71v,Leaflet,6,1,school_4,6 months,46,6,2
+wc74v,Group,5,1,school_4,6 months,54,6,2
+bt13c,Group,7,1,school_4,6 months,58,6,4
+ra64j,Leaflet,5,1,school_4,6 months,48,6,-0
+ip19f,Group,3,1,school_4,6 months,51,6,4
+pf72w,Group,6,1,school_4,6 months,39,6,5
+nz86u,Leaflet,3,1,school_4,6 months,47,6,3
+mi38j,Group,3,0,school_4,6 months,33,6,5
+sp55a,Leaflet,5,0,school_4,6 months,39,6,1
+ia41e,Leaflet,5,1,school_4,6 months,50,6,4
+fj49l,Leaflet,4,1,school_4,6 months,42,6,3
+bm32w,Leaflet,5,1,school_4,6 months,51,6,5
+ay90v,Leaflet,2,1,school_4,6 months,44,6,5
+wr15l,Leaflet,3,0,school_4,6 months,36,6,7
+er66v,Group,4,1,school_4,6 months,60,6,3
+dy11u,Leaflet,4,1,school_4,6 months,55,6,5
+ge32z,Group,2,1,school_4,6 months,73,6,4
+ul75r,Group,4,1,school_4,6 months,63,6,4
+cl42x,Group,3,1,school_4,6 months,44,6,4
+pd71g,Leaflet,1,0,school_4,6 months,25,6,2
+vw97x,Group,4,1,school_4,6 months,61,6,5
+ww91p,Leaflet,2,1,school_4,6 months,45,6,4
+ya01p,Leaflet,3,1,school_4,6 months,49,6,4
+lp09r,Leaflet,1,1,school_4,6 months,51,6,4
+au90b,Group,3,0,school_4,6 months,40,6,7
+ni51x,Group,2,0,school_4,6 months,43,6,3
+iu18u,Leaflet,3,0,school_4,6 months,31,6,4
+wn86l,Leaflet,4,1,school_4,6 months,51,6,6
+qk44i,Group,4,1,school_4,6 months,56,6,4
+qe85z,Leaflet,3,1,school_4,6 months,62,6,4
+xs47d,Group,2,1,school_4,6 months,44,6,2
+xf55i,Leaflet,1,0,school_4,6 months,40,6,2
+hk24z,Group,1,1,school_4,6 months,44,6,2
+du60n,Group,5,0,school_4,6 months,36,6,1
+wx61m,Group,6,1,school_4,6 months,55,6,4
+gj31m,Group,6,0,school_4,6 months,45,6,4
+tg72y,Leaflet,6,0,school_4,6 months,34,6,4
+bl53q,Leaflet,3,0,school_4,6 months,13,6,6
+cy13y,Leaflet,3,0,school_4,6 months,28,6,3
+nb97x,Group,1,1,school_4,6 months,51,6,3
+za73q,Group,5,0,school_4,6 months,40,6,3
+og14t,Group,1,0,school_4,6 months,28,6,4
+ot48x,Leaflet,2,0,school_4,6 months,24,6,4
+hs03q,Leaflet,5,1,school_5,6 months,44,6,2
+wl18w,Group,2,1,school_5,6 months,59,6,3
+sm56t,Group,7,1,school_5,6 months,49,6,2
+sl39r,Leaflet,3,1,school_5,6 months,45,6,4
+au83o,Group,5,1,school_5,6 months,65,6,6
+hj72b,Leaflet,5,0,school_5,6 months,34,6,3
+uc26x,Group,6,1,school_5,6 months,75,6,4
+uu91a,Group,5,1,school_5,6 months,73,6,3
+ij20v,Group,1,1,school_5,6 months,50,6,3
+qv79w,Leaflet,7,1,school_5,6 months,65,6,5
+qe09u,Leaflet,5,1,school_5,6 months,59,6,5
+ds53k,Group,3,1,school_5,6 months,84,6,6
+gz71a,Leaflet,6,0,school_5,6 months,53,6,4
+hs08l,Group,4,1,school_5,6 months,62,6,4
+ax10w,Leaflet,1,1,school_5,6 months,46,6,4
+ht08n,Leaflet,3,1,school_5,6 months,56,6,4
+gs98w,Leaflet,6,0,school_5,6 months,32,6,4
+cy66f,Group,7,1,school_5,6 months,46,6,3
+sy66r,Group,3,1,school_5,6 months,63,6,6
+hh64k,Leaflet,6,0,school_5,6 months,50,6,2
+gg84a,Leaflet,6,1,school_5,6 months,58,6,3
+rf28l,Leaflet,3,1,school_5,6 months,83,6,6
+xl68o,Leaflet,3,1,school_5,6 months,59,6,4
+rk56o,Leaflet,3,1,school_5,6 months,69,6,6
+fs89g,Leaflet,6,1,school_5,6 months,57,6,6
+tw97m,Leaflet,4,1,school_5,6 months,70,6,4
+vz24j,Group,3,1,school_5,6 months,59,6,4
+ur99u,Group,6,1,school_5,6 months,57,6,3
+jg41a,Leaflet,2,0,school_5,6 months,34,6,2
+rt17w,Leaflet,4,0,school_5,6 months,36,6,3
+zv60k,Group,7,1,school_5,6 months,69,6,5
+bb59g,Leaflet,6,1,school_5,6 months,51,6,4
+lz05z,Leaflet,4,0,school_5,6 months,27,6,1
+qc47p,Group,4,1,school_5,6 months,63,6,4
+jp20l,Leaflet,4,1,school_5,6 months,47,6,5
+pn65v,Leaflet,6,1,school_5,6 months,48,6,3
+qv21q,Leaflet,5,0,school_5,6 months,47,6,4
+fs19a,Group,2,0,school_5,6 months,49,6,1
+ww34n,Group,6,1,school_5,6 months,67,6,4
+wd70p,Group,2,0,school_5,6 months,41,6,2
+nm18w,Group,4,1,school_5,6 months,66,6,5
+je78m,Group,7,1,school_5,6 months,63,6,5
+xo40e,Group,1,0,school_5,6 months,38,6,4
+yc03e,Leaflet,6,0,school_5,6 months,51,6,2
+ks01b,Group,4,1,school_5,6 months,59,6,3
+bt31w,Group,1,1,school_5,6 months,49,6,2
+bl57f,Group,3,0,school_5,6 months,45,6,5
+gl49m,Group,3,1,school_5,6 months,50,6,3
+py16u,Group,2,1,school_5,6 months,70,6,3
+pw30r,Group,1,1,school_5,6 months,50,6,4
+cv39s,Leaflet,6,1,school_5,6 months,50,6,5
+md01n,Leaflet,2,0,school_5,6 months,28,6,1
+kl52h,Group,4,1,school_5,6 months,55,6,5
+ka95u,Leaflet,5,1,school_5,6 months,68,6,6
+cy49f,Leaflet,4,1,school_5,6 months,69,6,5
+qu36v,Leaflet,3,1,school_5,6 months,66,6,5
+qi40m,Leaflet,6,0,school_5,6 months,35,6,1
+nd76f,Leaflet,1,1,school_5,6 months,53,6,4
+sn45o,Leaflet,6,1,school_5,6 months,43,6,2
+nq05z,Group,1,1,school_5,6 months,53,6,5
+cf81p,Group,4,0,school_6,6 months,47,6,7
+ph20u,Group,6,1,school_6,6 months,58,6,4
+yo43y,Leaflet,7,1,school_6,6 months,59,6,3
+rl57l,Group,6,1,school_6,6 months,56,6,4
+tc61u,Leaflet,6,1,school_6,6 months,55,6,6
+ir45d,Group,3,1,school_6,6 months,78,6,6
+hf87u,Leaflet,2,1,school_6,6 months,66,6,5
+fh29j,Leaflet,3,1,school_6,6 months,40,6,5
+cm98r,Group,6,1,school_6,6 months,67,6,4
+kg51u,Leaflet,5,1,school_6,6 months,53,6,3
+nx97o,Leaflet,7,0,school_6,6 months,45,6,4
+bq99w,Leaflet,2,1,school_6,6 months,75,6,8
+rr72t,Group,7,1,school_6,6 months,89,6,3
+ru84t,Leaflet,5,0,school_6,6 months,62,6,6
+lx93d,Group,2,1,school_6,6 months,71,6,6
+ji19z,Group,1,1,school_6,6 months,64,6,4
+bc44z,Group,2,1,school_6,6 months,59,6,2
+jy88i,Leaflet,5,1,school_6,6 months,62,6,5
+hz66d,Leaflet,3,0,school_6,6 months,46,6,4
+ox01v,Group,3,1,school_6,6 months,60,6,3
+qe89m,Leaflet,6,1,school_6,6 months,67,6,3
+iw35k,Group,1,1,school_6,6 months,54,6,4
+in05p,Group,5,1,school_6,6 months,73,6,7
+tj46e,Group,6,0,school_6,6 months,55,6,5
+oq39u,Leaflet,6,1,school_6,6 months,51,6,3
+ac09v,Group,4,1,school_6,6 months,59,6,5
+xf80k,Leaflet,4,0,school_6,6 months,47,6,3
+cv70x,Group,1,1,school_6,6 months,81,6,3
+gs17d,Leaflet,5,1,school_6,6 months,54,6,3
+ec36e,Leaflet,3,0,school_6,6 months,52,6,3
+ey93t,Group,2,0,school_6,6 months,42,6,6
+hq76j,Leaflet,7,1,school_6,6 months,64,6,3
+lu09u,Group,2,1,school_6,6 months,70,6,5
+gl59q,Leaflet,2,1,school_6,6 months,68,6,3
+tr21q,Leaflet,6,1,school_6,6 months,54,6,3
+yn32g,Group,6,0,school_6,6 months,42,6,4
+lo35x,Group,1,1,school_6,6 months,63,6,4
+bm90w,Leaflet,3,1,school_6,6 months,56,6,3
+ad43a,Group,3,1,school_6,6 months,74,6,4
+eo79g,Leaflet,4,1,school_6,6 months,60,6,5
+xv91m,Group,2,1,school_6,6 months,57,6,3
+je26b,Leaflet,6,1,school_6,6 months,58,6,6
+au86c,Group,4,1,school_6,6 months,70,6,5
+ya08a,Group,3,1,school_6,6 months,57,6,3
+jr83r,Group,7,0,school_6,6 months,48,6,2
+ie88i,Group,5,1,school_6,6 months,63,6,4
+mm22q,Leaflet,7,0,school_6,6 months,57,6,2
+ee31q,Group,6,1,school_6,6 months,71,6,3
+tm35q,Group,1,1,school_6,6 months,64,6,5
+uj90o,Leaflet,2,0,school_6,6 months,52,6,2
+xp90l,Group,5,1,school_6,6 months,65,6,3
+pt74t,Leaflet,5,0,school_6,6 months,59,6,3
+bf67l,Group,6,0,school_6,6 months,24,6,4
+ao32u,Leaflet,4,1,school_6,6 months,53,6,5
+aq71s,Group,5,1,school_6,6 months,62,6,2
+rt70g,Leaflet,2,0,school_6,6 months,52,6,5
+ff06c,Group,2,0,school_7,6 months,19,6,4
+wf75s,Group,6,1,school_7,6 months,34,6,2
+oz57m,Group,4,1,school_7,6 months,31,6,4
+aa54j,Group,7,1,school_7,6 months,29,6,2
+aw39c,Group,5,1,school_7,6 months,30,6,4
+dx99e,Group,6,1,school_7,6 months,48,6,5
+hu15p,Group,2,1,school_7,6 months,49,6,2
+sx94h,Group,3,1,school_7,6 months,40,6,6
+xb60k,Leaflet,3,0,school_7,6 months,28,6,1
+th48p,Group,6,0,school_7,6 months,32,6,3
+az96g,Group,4,0,school_7,6 months,22,6,3
+in45k,Leaflet,6,0,school_7,6 months,27,6,3
+bx90v,Group,6,0,school_7,6 months,30,6,4
+xr13q,Group,1,1,school_7,6 months,30,6,1
+ad17o,Leaflet,6,1,school_7,6 months,26,6,2
+iw85e,Group,7,1,school_7,6 months,43,6,3
+ob20f,Leaflet,4,1,school_7,6 months,38,6,5
+ki74g,Group,4,1,school_7,6 months,41,6,3
+ep33w,Leaflet,6,1,school_7,6 months,43,6,5
+nt58o,Group,2,0,school_7,6 months,19,6,3
+mb31h,Group,4,1,school_7,6 months,34,6,3
+ez13r,Group,6,0,school_7,6 months,26,6,2
+of92d,Leaflet,3,0,school_7,6 months,38,6,5
+ro64t,Group,5,1,school_7,6 months,34,6,3
+pi20c,Leaflet,4,1,school_7,6 months,39,6,3
+fh77t,Group,3,1,school_7,6 months,35,6,6
+gv92i,Leaflet,4,1,school_7,6 months,36,6,2
+dj25b,Leaflet,5,1,school_7,6 months,44,6,2
+pf35a,Group,2,1,school_7,6 months,27,6,2
+pu01m,Group,3,0,school_7,6 months,27,6,2
+ut61h,Group,2,0,school_7,6 months,22,6,4
+wf43k,Group,4,1,school_7,6 months,48,6,3
+ft99p,Group,5,1,school_7,6 months,45,6,5
+nv41h,Leaflet,2,0,school_7,6 months,9,6,5
+kf87k,Leaflet,6,0,school_7,6 months,24,6,3
+kr01o,Group,5,0,school_7,6 months,20,6,3
+tf11u,Leaflet,5,1,school_7,6 months,44,6,1
+hb30j,Group,5,1,school_7,6 months,50,6,4
+rm31m,Leaflet,4,1,school_7,6 months,38,6,2
+xd36d,Group,6,0,school_7,6 months,26,6,6
+av37v,Leaflet,4,0,school_7,6 months,28,6,4
+dd17t,Leaflet,5,1,school_7,6 months,38,6,3
+in96y,Group,2,1,school_7,6 months,48,6,3
+wt82j,Group,2,0,school_7,6 months,20,6,3
+at98p,Group,3,1,school_7,6 months,27,6,3
+fu53p,Group,4,1,school_7,6 months,47,6,4
+oo97h,Leaflet,4,0,school_7,6 months,17,6,1
+zr78w,Group,7,1,school_7,6 months,57,6,3
+qn40a,Leaflet,5,1,school_8,6 months,52,6,2
+ih77j,Group,5,1,school_8,6 months,48,6,2
+ii21b,Leaflet,2,0,school_8,6 months,22,6,4
+hf77e,Group,5,0,school_8,6 months,40,6,3
+xb93o,Group,4,0,school_8,6 months,47,6,4
+rk48w,Leaflet,2,0,school_8,6 months,39,6,3
+ga64d,Group,2,0,school_8,6 months,49,6,4
+st97g,Leaflet,3,1,school_8,6 months,61,6,3
+eb32d,Leaflet,5,0,school_8,6 months,30,6,3
+gg04t,Leaflet,2,1,school_8,6 months,40,6,4
+zn65r,Group,6,1,school_8,6 months,63,6,6
+wn30f,Group,3,1,school_8,6 months,52,6,6
+xx10f,Leaflet,6,1,school_8,6 months,73,6,4
+tb95a,Group,1,1,school_8,6 months,69,6,2
+cw77m,Leaflet,4,1,school_8,6 months,60,6,3
+nt36d,Leaflet,3,0,school_8,6 months,38,6,2
+gr23b,Leaflet,6,0,school_8,6 months,49,6,5
+fb15j,Group,3,1,school_8,6 months,37,6,4
+ia15h,Group,1,0,school_8,6 months,27,6,2
+iy86x,Group,6,1,school_8,6 months,53,6,2
+dz44h,Leaflet,3,0,school_8,6 months,56,6,4
+rk82u,Group,3,0,school_8,6 months,24,6,1
+dk45d,Group,2,0,school_8,6 months,28,6,3
+ey36j,Leaflet,5,0,school_8,6 months,64,6,3
+hx62o,Leaflet,4,1,school_8,6 months,41,6,3
+hx26s,Leaflet,4,0,school_8,6 months,29,6,4
+xj83l,Leaflet,1,1,school_8,6 months,51,6,3
+fs42r,Group,5,1,school_8,6 months,50,6,3
+te95g,Group,7,0,school_8,6 months,40,6,2
+xl87m,Leaflet,3,0,school_8,6 months,32,6,2
+ha32m,Leaflet,7,1,school_8,6 months,41,6,3
+ez20p,Leaflet,6,1,school_8,6 months,44,6,4
+ve64x,Leaflet,4,1,school_8,6 months,39,6,3
+no70q,Leaflet,6,1,school_8,6 months,61,6,3
+hi70p,Leaflet,4,1,school_8,6 months,49,6,4
+ec18v,Leaflet,6,1,school_8,6 months,67,6,5
+iv42h,Group,6,1,school_8,6 months,59,6,5
+sj63z,Leaflet,1,1,school_8,6 months,54,6,4
+au97m,Group,6,0,school_8,6 months,51,6,3
+lk40p,Group,6,1,school_8,6 months,49,6,6
+ai96o,Leaflet,6,0,school_8,6 months,56,6,3
+kf82u,Group,6,1,school_8,6 months,50,6,3
+oh80q,Group,1,0,school_8,6 months,42,6,3
+vs06d,Leaflet,5,1,school_8,6 months,42,6,4
+qt26i,Leaflet,7,1,school_8,6 months,55,6,4
+bq50d,Group,1,1,school_8,6 months,61,6,5
+zi25j,Leaflet,1,0,school_8,6 months,55,6,5
+xe80j,Group,4,0,school_8,6 months,39,6,2
+iq03l,Group,4,1,school_8,6 months,49,6,2
+ty27s,Leaflet,4,1,school_8,6 months,50,6,2
+qb76s,Group,1,1,school_8,6 months,41,6,2
+jl86o,Leaflet,3,0,school_8,6 months,13,6,3
+je25m,Leaflet,2,0,school_8,6 months,31,6,4
+cn73o,Leaflet,2,0,school_8,6 months,45,6,4
+yv75w,Leaflet,1,0,school_8,6 months,27,6,4
+ps29v,Leaflet,5,1,school_8,6 months,41,6,3
+mu06y,Group,3,0,school_8,6 months,10,6,3
+ph79n,Leaflet,5,0,school_8,6 months,26,6,3
+iq71v,Leaflet,4,1,school_8,6 months,58,6,5
+kl91c,Leaflet,2,0,school_8,6 months,24,6,2
+vt69m,Group,2,1,school_8,6 months,66,6,7
+ka15p,Group,3,0,school_8,6 months,51,6,5
+aj14b,Leaflet,7,1,school_8,6 months,62,6,5
+zt51y,Leaflet,3,1,school_8,6 months,45,6,5
+ce32c,Group,4,0,school_8,6 months,25,6,0
+zt11r,Group,6,0,school_8,6 months,31,6,4
+vq35z,Leaflet,1,0,school_8,6 months,35,6,2
+ni61h,Group,6,1,school_8,6 months,84,6,4
+rg43t,Group,7,1,school_8,6 months,62,6,4
+gu37k,Leaflet,3,1,school_8,6 months,54,6,5
+mh94e,Leaflet,1,1,school_8,6 months,34,6,3
+df74j,Group,2,0,school_8,6 months,22,6,1
+we08y,Leaflet,7,0,school_8,6 months,42,6,5
+zt08z,Group,3,0,school_8,6 months,35,6,5
+hq14a,Leaflet,2,0,school_8,6 months,44,6,4
+tw09u,Leaflet,2,1,school_8,6 months,36,6,4
+fo87q,Group,2,0,school_8,6 months,25,6,3
+ss43s,Leaflet,3,0,school_8,6 months,29,6,3
+yk43v,Group,3,1,school_8,6 months,56,6,2
+gz52r,Leaflet,4,1,school_8,6 months,44,6,5
+yo11o,Group,3,0,school_8,6 months,38,6,2
+og20h,Group,1,1,school_8,6 months,55,6,6
+dc73i,Leaflet,6,1,school_8,6 months,45,6,2
+ms55u,Group,2,0,school_8,6 months,28,6,4
+gd23h,Group,4,0,school_8,6 months,51,6,3
+io62s,Group,6,1,school_8,6 months,63,6,2
+wr76h,Leaflet,2,1,school_8,6 months,40,6,5
+cn20s,Group,1,1,school_8,6 months,58,6,5
+hh35t,Group,2,1,school_8,6 months,78,6,2
+nr36m,Leaflet,4,0,school_8,6 months,45,6,7
+ql10s,Group,2,1,school_8,6 months,38,6,1
+oa14o,Leaflet,4,0,school_8,6 months,41,6,5
+gt67k,Group,2,0,school_8,6 months,52,6,5
+rb95a,Leaflet,2,1,school_8,6 months,66,6,4

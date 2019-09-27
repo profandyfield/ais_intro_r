@@ -1,0 +1,39 @@
+.footnote {
+  position: absolute;
+  bottom: 3em;
+  padding-right: 4em;
+  font-size: 60%;
+}
+
+.remark-slide-content {
+    font-size: 150%;
+}
+
+.title-slide {
+  background-image: url("images/ais_powerpoint_blue.png");
+  background-size: cover;
+}
+
+.remark-inline-code {
+  color: #007faa
+}
+
+.font-orn {
+  color: #d43900
+}
+
+.font-red {
+  color: #b50000
+}
+
+.font-grn {
+  color: #4b7b4b
+}
+
+.font-blu {
+  color: #007faa
+}
+
+.font-bwn {
+  color: #8d6708
+}
