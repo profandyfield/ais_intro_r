@@ -46,6 +46,18 @@ tap_tib <- here::here("data/tap_parenting.csv") %>%
 	+ TAP 2: 30%
 + 1 × Report (40%)
 
+???
+    h or ?: Toggle the help window
+    j: Jump to next slide
+    k: Jump to previous slide
+    b: Toggle blackout mode
+    m: Toggle mirrored mode.
+    p: Toggle PresenterMode
+    f: Toggle Fullscreen
+    t: Reset presentation timer
+    <number> + <Return>: Jump to slide <number>
+    c: Create a clone presentation on a new window
+
 ---
 class: inverse
 layout: false
@@ -221,27 +233,6 @@ background-size: cover
 layout: true
 background-image: url("images/ais_powerpoint_white.png")
 background-size: cover
----
-##  Before we begin …. 
-
-University computers are networked and use something called UNC paths
-
---
-
-This messes a few things up
-
---
-
-There’s a fix:
-
-+ On CANVAS go to .font-bwn[Files > system_files]
-+ Download the file .font-bwn[.Renviron]
-+ Save it to the Documents folder on the N: drive
-
---
-
-.font-orn[NOTE: you don’t need to do this on your home machine/laptop]
-
 ---
 
 ![:scale 70%](images/sussex_cloud.png)
@@ -773,6 +764,8 @@ tap_tib <- here::here("data/tap_parenting.csv") %>%
 
 ---
 ##  Messy vs. Tidy data 
+
+--
 
 ### Messy data (aka 'wide' data)
 
